@@ -1,0 +1,1399 @@
+customerID,tenure,Contract,MonthlyCharges,InternetService,OnlineSecurity,TechSupport,ChurnProbability
+4439-YRNVD,10,Month-to-month,36.25,DSL,No,Yes,0.9185553307870942
+2812-REYAT,49,One year,20.05,No,No internet service,No internet service,0.9184686862654391
+2740-JFBOK,10,Month-to-month,24.0,No,No internet service,No internet service,0.9178733191208047
+2722-JMONI,1,Month-to-month,49.55,DSL,Yes,No,0.9155898937852863
+0380-ZCSBI,10,Month-to-month,20.0,No,No internet service,No internet service,0.9147516745784948
+5382-TEMLV,45,Month-to-month,50.9,DSL,Yes,No,0.9142085199870078
+7471-WNSUF,60,One year,24.15,No,No internet service,No internet service,0.9131965815198235
+6732-FZUGP,47,One year,94.9,Fiber optic,Yes,No,0.9128772285769519
+8738-JOKAR,42,One year,67.7,DSL,Yes,Yes,0.9119501135084797
+0206-OYVOC,46,Two year,19.25,No,No internet service,No internet service,0.911111894301688
+3026-ATZYV,37,One year,75.1,DSL,Yes,No,0.9100868282657422
+8902-ZEOVF,47,One year,20.05,No,No internet service,No internet service,0.9100868282657422
+1038-ZAGBI,12,One year,19.8,No,No internet service,No internet service,0.9100749786771177
+2546-KZAAT,52,One year,75.4,DSL,Yes,No,0.9100749786771177
+7139-JZFVG,60,Two year,60.5,DSL,Yes,No,0.9075780242333421
+2834-JKOOW,15,One year,45.9,DSL,Yes,Yes,0.9061212453972455
+9576-SYUHJ,37,Month-to-month,91.15,Fiber optic,Yes,No,0.9058538504402303
+4510-PYUSH,38,Month-to-month,57.15,DSL,Yes,No,0.9056411445713496
+4716-HHKQH,20,Month-to-month,107.05,Fiber optic,No,Yes,0.9056411445713496
+1591-NFNLQ,51,Month-to-month,80.0,Fiber optic,No,No,0.9056411445713496
+0750-EBAIU,52,One year,91.25,Fiber optic,Yes,No,0.9054210638022872
+2697-NQBPF,34,Month-to-month,105.35,Fiber optic,No,Yes,0.9054210638022872
+2683-JXWQQ,61,Month-to-month,33.6,DSL,Yes,No,0.904790131191571
+4530-NDRKU,42,One year,19.05,No,No internet service,No internet service,0.9045703386533073
+1625-JAIIY,68,One year,83.0,Fiber optic,No,No,0.9035961752605415
+7248-VZQLC,47,Month-to-month,85.2,Fiber optic,No,No,0.9035067384096095
+6985-HAYWX,26,Month-to-month,79.3,Fiber optic,No,No,0.9032661608583846
+0042-RLHYP,69,Two year,19.7,No,No internet service,No internet service,0.9029802251174374
+8165-ZJRNM,72,Two year,23.75,No,No internet service,No internet service,0.9023050489337112
+6261-LHRTG,26,Month-to-month,54.75,DSL,No,No,0.9016650790078653
+4132-KALRO,4,Month-to-month,100.85,Fiber optic,No,Yes,0.9014810876864138
+9168-INPSZ,44,Month-to-month,104.15,Fiber optic,No,Yes,0.9014810876864138
+9074-KGVOX,50,Month-to-month,39.45,DSL,Yes,No,0.9011001147971419
+0197-PNKNK,69,One year,84.45,Fiber optic,Yes,No,0.9006384075763024
+7359-SSBJK,64,Two year,70.2,DSL,Yes,Yes,0.9000488359603493
+6266-QHOJZ,65,One year,89.85,Fiber optic,Yes,Yes,0.9000189855381087
+9308-ANMVE,47,Month-to-month,55.3,DSL,Yes,No,0.8996772956516288
+8563-OYMQY,17,Month-to-month,90.95,Fiber optic,No,No,0.8996772956516288
+1697-NVVGY,19,Month-to-month,66.4,DSL,Yes,No,0.8996772956516288
+4193-IBKSW,72,Two year,24.75,No,No internet service,No internet service,0.8994380338312538
+9786-IJYDL,35,Two year,113.2,Fiber optic,Yes,Yes,0.8994380338312538
+7268-WNTCP,62,Two year,20.45,No,No internet service,No internet service,0.8993038674643158
+0587-DMGBH,8,Month-to-month,49.85,DSL,Yes,No,0.898853714694593
+3154-HMWUU,60,Two year,20.5,No,No internet service,No internet service,0.8985124433436802
+2790-XUYMV,71,One year,85.45,Fiber optic,Yes,No,0.8985124433436802
+1017-FBQMM,62,One year,106.05,Fiber optic,No,Yes,0.8980669516533863
+4049-ZPALD,64,Two year,99.0,Fiber optic,Yes,No,0.8977845138759644
+7234-KMNRQ,4,Month-to-month,19.0,No,No internet service,No internet service,0.8977845138759644
+6904-JLBGY,72,Two year,117.35,Fiber optic,Yes,Yes,0.8977845138759644
+2259-OUUSZ,7,One year,35.5,DSL,No,Yes,0.8977845138759644
+7619-PLRLP,53,One year,74.1,DSL,Yes,No,0.8977845138759644
+8668-KNZTI,52,One year,53.75,DSL,Yes,No,0.8976208868296809
+9975-GPKZU,46,Two year,19.75,No,No internet service,No internet service,0.8974426788507175
+2322-VCZHZ,23,Month-to-month,90.0,Fiber optic,Yes,No,0.8974261002775188
+0378-XSZPU,58,One year,60.3,DSL,Yes,No,0.8967657790371695
+2393-DIVAI,3,Month-to-month,20.0,No,No internet service,No internet service,0.8967657790371695
+1208-DNHLN,23,One year,48.35,DSL,No,No,0.8963130184724367
+8914-RBTSB,31,Month-to-month,93.8,Fiber optic,No,No,0.8961334809986422
+9700-ISPUP,10,Month-to-month,65.5,DSL,No,Yes,0.8961334809986422
+8169-SAEJD,69,Two year,56.55,DSL,Yes,No,0.8961334809986422
+8017-UVSZU,40,Month-to-month,56.6,DSL,No,No,0.8957688193566017
+3001-UNBTL,29,Month-to-month,103.95,Fiber optic,No,No,0.8957688193566017
+7560-QRBXH,48,One year,19.95,No,No internet service,No internet service,0.8954213273571215
+6362-QHAFM,42,One year,108.3,Fiber optic,No,Yes,0.8952556556584769
+3913-RDSJZ,64,Two year,25.55,No,No internet service,No internet service,0.8952556556584769
+3398-GCPMU,72,Two year,89.55,DSL,Yes,Yes,0.8943175541010473
+5876-HZVZM,6,Month-to-month,55.9,DSL,Yes,No,0.8940145998208018
+3158-MOERK,2,Month-to-month,96.0,Fiber optic,No,No,0.8940011500215753
+5138-WVKYJ,10,Month-to-month,98.55,Fiber optic,Yes,No,0.8937672490807012
+5038-ETMLM,72,Two year,113.65,Fiber optic,Yes,Yes,0.8936882171848102
+8100-PNJMH,68,Two year,88.85,DSL,Yes,Yes,0.8930709603816027
+0239-OXEXL,46,Month-to-month,84.25,Fiber optic,Yes,No,0.8930685963139721
+9369-XFEHK,33,Month-to-month,80.6,Fiber optic,No,No,0.8929703363646948
+5915-DGNVC,49,One year,71.8,DSL,Yes,No,0.8923363858975769
+1732-VHUBQ,47,Month-to-month,70.55,Fiber optic,No,No,0.8923363858975769
+4872-VXRIL,56,One year,64.65,DSL,Yes,Yes,0.8917284799232518
+3422-GALYP,2,Month-to-month,79.45,Fiber optic,No,No,0.8916344469172094
+8200-LGKSR,71,Two year,83.2,DSL,Yes,Yes,0.8912740636414145
+2885-HIJDH,69,Two year,86.9,DSL,Yes,Yes,0.891179110688817
+6950-TWMYB,54,Two year,79.95,Fiber optic,No,Yes,0.891179110688817
+5131-PONJI,49,Month-to-month,90.4,Fiber optic,No,No,0.891179110688817
+7633-MVPUY,57,Two year,59.75,DSL,Yes,Yes,0.890573878367756
+2080-SRCDE,1,Month-to-month,25.4,No,No internet service,No internet service,0.889962393484715
+6463-MVYRY,57,Two year,69.85,DSL,Yes,Yes,0.889962393484715
+2209-XADXF,1,Month-to-month,25.25,DSL,No,No,0.889962393484715
+6813-GZQCG,45,Two year,24.65,No,No internet service,No internet service,0.8898545881741522
+9522-BNTHX,34,Month-to-month,56.25,DSL,No,No,0.8895821176365654
+4079-ULGFR,16,Month-to-month,20.0,No,No internet service,No internet service,0.8894248589605286
+4658-HCOHW,21,Month-to-month,102.8,Fiber optic,No,Yes,0.8891634161694545
+0164-APGRB,72,Two year,114.9,Fiber optic,Yes,Yes,0.8891006375322924
+8468-EHYJA,57,Month-to-month,99.65,Fiber optic,Yes,No,0.888617941804667
+5787-KXGIY,72,Two year,19.3,No,No internet service,No internet service,0.8885669532780258
+4893-GYUJU,50,One year,19.35,No,No internet service,No internet service,0.8885430726750755
+8410-BGQXN,4,Month-to-month,19.4,No,No internet service,No internet service,0.8883477509593718
+5863-OOKCL,10,Month-to-month,18.85,No,No internet service,No internet service,0.8876083841418289
+9897-KXHCM,3,Month-to-month,80.3,Fiber optic,No,No,0.8875717533523256
+8224-IVVPA,27,Month-to-month,56.7,DSL,Yes,No,0.8875717533523256
+0840-DCNZE,47,One year,86.95,DSL,Yes,Yes,0.8869201480251444
+7435-ZNUYY,6,One year,20.6,No,No internet service,No internet service,0.8867816771551191
+0810-DHDBD,52,One year,74.0,DSL,Yes,Yes,0.8866035977312292
+0003-MKNFE,9,Month-to-month,59.9,DSL,No,No,0.8864806930303359
+3685-YLCMQ,58,One year,104.65,Fiber optic,No,Yes,0.8862300379310126
+6959-GQEGV,45,Month-to-month,75.95,DSL,Yes,No,0.885556058832963
+6556-DBKZF,71,Two year,76.05,Fiber optic,No,No,0.8855209245795472
+8313-NDOIA,24,Month-to-month,104.15,Fiber optic,No,No,0.8855209245795472
+5461-QKNTN,43,Month-to-month,94.3,Fiber optic,No,Yes,0.8855209245795472
+9788-YTFGE,7,Month-to-month,19.95,No,No internet service,No internet service,0.8855209245795472
+8409-WQJUX,25,One year,54.2,DSL,No,Yes,0.8855209245795472
+1522-VVDMG,7,Month-to-month,89.75,Fiber optic,No,Yes,0.8855209245795472
+8859-AXJZP,39,Two year,23.8,No,No internet service,No internet service,0.8855209245795472
+4992-LTJNE,72,Two year,55.3,DSL,Yes,No,0.8855209245795472
+7234-FECYN,8,Month-to-month,101.35,Fiber optic,No,No,0.8855209245795472
+1310-QRITU,18,Month-to-month,50.3,DSL,No,No,0.8850428951348381
+2391-SOORI,4,Month-to-month,49.35,DSL,Yes,No,0.8850428951348381
+2974-GGUXS,36,Month-to-month,91.95,Fiber optic,No,No,0.8850185088152387
+0147-ESWWR,39,Month-to-month,101.25,Fiber optic,No,Yes,0.88500042423383
+7740-KKCXF,51,Month-to-month,30.05,DSL,No,No,0.8849463107054285
+8174-LNWMW,31,Two year,20.9,No,No internet service,No internet service,0.8840849741174907
+7508-MYBOG,14,Month-to-month,86.1,Fiber optic,No,No,0.8839889295662513
+0052-YNYOT,67,One year,20.55,No,No internet service,No internet service,0.8837883894979366
+1561-BWHIN,19,One year,19.8,No,No internet service,No internet service,0.8837883894979366
+5847-MXBEO,22,One year,20.3,No,No internet service,No internet service,0.8837883894979366
+1552-AAGRX,30,Month-to-month,106.4,Fiber optic,Yes,Yes,0.8837883894979366
+4234-XTNEA,2,Month-to-month,79.95,Fiber optic,No,No,0.8832673463530312
+4822-NGOCH,13,Month-to-month,84.45,Fiber optic,No,No,0.8831904846483399
+7398-SKNQZ,3,Month-to-month,94.9,Fiber optic,No,No,0.8831142214032703
+4690-LLKUA,17,Month-to-month,45.05,DSL,No,No,0.8830333348035251
+1389-WNUIB,20,One year,76.0,DSL,Yes,No,0.8830209834179945
+0637-YLETY,16,Month-to-month,95.6,Fiber optic,No,No,0.88264705761605
+9451-LPGOO,7,Month-to-month,86.8,Fiber optic,No,No,0.8822638726652293
+0696-UKTOX,23,Month-to-month,54.15,DSL,No,Yes,0.8822600501469309
+6429-SHBCB,19,Month-to-month,69.6,DSL,No,No,0.8819669988859805
+8454-AATJP,72,Two year,115.05,Fiber optic,Yes,Yes,0.8818165523530139
+6348-SNFUS,72,Two year,55.45,DSL,Yes,Yes,0.8817375607251584
+2692-AQCPF,65,One year,108.05,Fiber optic,No,Yes,0.8817375607251584
+6078-VESFR,13,Month-to-month,70.45,Fiber optic,No,No,0.8813251647828304
+4612-THJBS,56,One year,104.75,Fiber optic,No,No,0.8810547685147564
+7695-PKLCZ,68,Two year,20.5,No,No internet service,No internet service,0.8807267489960496
+5360-XGYAZ,72,Two year,65.65,DSL,Yes,Yes,0.8803073381849528
+6437-UDQJM,72,Two year,84.1,DSL,Yes,No,0.8800576134458836
+5153-LXKDT,68,Two year,110.2,Fiber optic,Yes,No,0.8800219611963632
+4958-GZWIY,7,Month-to-month,48.7,DSL,No,No,0.8795880365409425
+2824-MYYBN,37,Month-to-month,95.25,Fiber optic,No,No,0.8794163803227716
+3392-EHMNK,67,Two year,94.1,Fiber optic,No,Yes,0.8787625826458462
+6319-QSUSR,11,Month-to-month,19.7,No,No internet service,No internet service,0.8784563408759344
+2898-LSJGD,21,One year,55.95,DSL,Yes,No,0.8783752871916058
+4967-WPNCF,72,Two year,63.7,DSL,Yes,Yes,0.8780035803112015
+7609-NRNCA,17,One year,19.55,No,No internet service,No internet service,0.8776670290087949
+9206-GVPEQ,13,Month-to-month,54.45,DSL,Yes,Yes,0.8776670290087949
+6231-WFGFH,4,Month-to-month,20.5,No,No internet service,No internet service,0.8775373227266742
+6504-VBLFL,55,Two year,58.6,DSL,Yes,No,0.8774468653639086
+8357-EQXFO,7,Month-to-month,95.35,Fiber optic,No,No,0.8771553086925746
+4422-QVIJA,35,Month-to-month,50.15,DSL,No,No,0.8769836512657612
+9274-CNFMO,4,Month-to-month,74.95,Fiber optic,No,No,0.8768815081420452
+9146-JRIOX,14,Month-to-month,25.55,No,No internet service,No internet service,0.8768600825359856
+3656-TKRVZ,3,Month-to-month,55.35,DSL,Yes,No,0.8768536586333379
+9314-IJWSQ,14,Month-to-month,84.8,Fiber optic,No,No,0.8764643313452934
+3740-RLMVT,67,One year,60.95,DSL,Yes,Yes,0.8760653041371461
+3346-BRMIS,18,Month-to-month,48.35,DSL,No,No,0.8757074847572137
+9537-VHDTA,1,Month-to-month,51.2,DSL,Yes,No,0.8757074847572137
+2990-OGYTD,67,Two year,86.15,DSL,No,Yes,0.8755332793638639
+1221-GHZEP,62,Two year,65.1,DSL,Yes,Yes,0.8755332793638639
+6479-SZPLM,36,Two year,19.45,No,No internet service,No internet service,0.8755332793638639
+7562-UXTPG,13,Month-to-month,70.15,Fiber optic,No,No,0.8754231073201233
+6559-ILWKJ,71,Two year,49.35,DSL,No,No,0.8753156824196838
+2749-CTKAJ,22,One year,20.15,No,No internet service,No internet service,0.8753156824196838
+0746-JTRFU,2,Month-to-month,25.05,DSL,No,No,0.8752740441548122
+8665-UTDHZ,1,Month-to-month,30.2,DSL,No,No,0.8752740441548122
+1614-JBEBI,8,Month-to-month,20.7,No,No internet service,No internet service,0.8751487004879506
+5387-ASZNZ,66,One year,63.85,DSL,Yes,Yes,0.8750761767781344
+2239-CFOUJ,1,One year,20.4,No,No internet service,No internet service,0.8750685033066173
+0842-IWYCP,46,Month-to-month,44.95,DSL,No,No,0.8750327844670823
+1307-TVUFB,42,Month-to-month,79.35,Fiber optic,No,No,0.8744541070542666
+0374-FIUCA,65,Two year,20.4,No,No internet service,No internet service,0.8744441442780605
+4815-GBTCD,4,Month-to-month,25.15,DSL,No,No,0.8737409792339526
+2165-VOEGB,46,One year,105.2,Fiber optic,Yes,Yes,0.8737197492107661
+8782-NUUOL,60,One year,79.0,DSL,Yes,Yes,0.8735857494552388
+5110-CHOPY,60,Two year,53.6,DSL,Yes,No,0.8732474164834342
+9866-OCCKE,72,Two year,109.75,Fiber optic,Yes,Yes,0.8731727275694042
+7173-TETGO,72,Two year,78.5,Fiber optic,Yes,No,0.8728200950641394
+0945-TSONX,47,Two year,85.3,DSL,Yes,Yes,0.8726491651485417
+2853-CWQFQ,1,Month-to-month,59.55,DSL,No,Yes,0.8723155687334183
+0374-AACSZ,1,Month-to-month,50.15,DSL,Yes,No,0.8723023845209872
+6467-CHFZW,47,Month-to-month,99.35,Fiber optic,No,No,0.8722730338410527
+0953-LGOVU,12,Month-to-month,35.5,DSL,No,Yes,0.872187184958125
+7395-IGJOS,17,Month-to-month,81.5,Fiber optic,No,No,0.8720256259877596
+3871-IKPYH,1,Month-to-month,69.1,Fiber optic,No,No,0.8718586794346903
+4983-CCWMC,3,Month-to-month,69.6,Fiber optic,No,No,0.8715212492512069
+3842-IYKUE,35,Month-to-month,85.3,Fiber optic,No,Yes,0.8714424735014845
+4825-XJGDM,61,One year,43.7,DSL,Yes,Yes,0.8710446593859357
+8029-XYPWT,71,Two year,115.05,Fiber optic,Yes,Yes,0.8707457000342539
+6921-OZMFH,5,Month-to-month,55.7,DSL,No,Yes,0.8707127258968224
+4652-NNHNY,16,Month-to-month,73.85,Fiber optic,No,No,0.8704103861165755
+8434-PNQZX,42,Two year,78.45,DSL,No,Yes,0.8702000635233383
+7460-ITWWP,45,Month-to-month,86.1,Fiber optic,No,No,0.8700569630592294
+7346-MEDWM,59,Month-to-month,83.25,Fiber optic,No,No,0.8700569630592294
+0310-MVLET,61,Month-to-month,99.15,Fiber optic,No,No,0.8699477792725797
+6762-NSODU,46,Two year,19.4,No,No internet service,No internet service,0.8699477792725797
+3301-LSLWQ,29,Month-to-month,66.1,DSL,Yes,No,0.8698123307871805
+4059-IIEBK,7,Month-to-month,78.55,Fiber optic,No,No,0.8697085174522046
+2249-YPRNG,20,Month-to-month,105.85,Fiber optic,No,No,0.8694730878055112
+9442-JTWDL,11,One year,20.05,No,No internet service,No internet service,0.8694388675889612
+3498-LZGQZ,63,Two year,19.15,No,No internet service,No internet service,0.8692406325845063
+5590-ZSKRV,8,Month-to-month,54.65,DSL,Yes,No,0.8692091321065959
+9575-IWCAZ,6,One year,25.1,No,No internet service,No internet service,0.8690714132833897
+5285-MVEHD,56,One year,105.6,Fiber optic,Yes,No,0.8688971906023534
+7969-AULMZ,21,Month-to-month,97.35,Fiber optic,No,No,0.8688283420716704
+3316-UWXUY,50,Month-to-month,93.5,Fiber optic,Yes,Yes,0.8687370288632565
+1399-UBQIU,11,Month-to-month,69.35,DSL,No,No,0.868709395650226
+7206-PQBBZ,11,Month-to-month,70.2,Fiber optic,No,No,0.8684063999102907
+9574-RKJIF,30,Month-to-month,94.4,Fiber optic,Yes,No,0.8682790296362992
+6614-FHDBO,72,Two year,109.2,Fiber optic,No,Yes,0.8682790296362992
+7544-ZVIKX,58,One year,105.05,Fiber optic,No,Yes,0.8680564276728336
+8107-RZLNV,72,Two year,106.3,Fiber optic,No,No,0.8679695583397552
+8413-VONUO,2,Month-to-month,95.65,Fiber optic,No,No,0.8675315514612717
+7521-YXVZY,3,Month-to-month,19.95,No,No internet service,No internet service,0.8674888660478477
+5073-RZGBK,50,One year,80.05,DSL,Yes,Yes,0.8672338485692641
+1621-YNCJH,36,Two year,106.05,Fiber optic,Yes,Yes,0.8671077088757176
+1448-PWKYE,1,Month-to-month,80.0,Fiber optic,No,No,0.8669484099112417
+4988-IQIGL,1,Month-to-month,75.35,Fiber optic,No,No,0.8666304967432787
+8111-BKVDS,10,Month-to-month,40.7,DSL,Yes,No,0.8664799470740967
+5443-SCMKX,58,One year,94.3,Fiber optic,No,No,0.8664230738792785
+5047-LHVLY,1,Month-to-month,50.15,DSL,No,No,0.866226285222819
+4929-XIHVW,2,Month-to-month,95.5,Fiber optic,No,No,0.865991948530852
+8182-BJDSI,28,Month-to-month,89.95,Fiber optic,No,No,0.8657403404188715
+4671-VJLCL,63,Two year,79.85,DSL,Yes,Yes,0.8656284765122731
+4220-TINQT,61,Month-to-month,106.35,Fiber optic,No,Yes,0.8656176121761345
+3192-NQECA,68,Two year,110.0,Fiber optic,No,Yes,0.8653642025381214
+4476-OSWTN,69,One year,110.55,Fiber optic,Yes,Yes,0.8650166927056816
+7969-FFOWG,65,Two year,19.9,No,No internet service,No internet service,0.8650023041048547
+4927-WWOOZ,2,Month-to-month,91.45,Fiber optic,No,No,0.8649380034727574
+8263-OKETD,20,Month-to-month,68.9,DSL,No,Yes,0.8648959198187427
+9878-TNQGW,2,Month-to-month,80.95,Fiber optic,No,No,0.8647049903517768
+1750-CSKKM,9,Month-to-month,55.35,DSL,No,No,0.8647049903517768
+2043-WVTQJ,1,Month-to-month,55.7,DSL,Yes,No,0.8641983541737814
+5035-BVCXS,11,Month-to-month,75.9,Fiber optic,No,No,0.8641103092778298
+5136-GFPMB,54,Month-to-month,89.4,Fiber optic,No,No,0.863823292286236
+0699-NDKJM,57,Month-to-month,58.75,DSL,Yes,No,0.863823292286236
+9919-KNPOO,21,Month-to-month,94.3,Fiber optic,No,No,0.8631143600652877
+3318-OSATS,35,Month-to-month,95.45,Fiber optic,No,No,0.862838928311712
+4282-ACRXS,38,Month-to-month,24.85,DSL,No,No,0.862738742029913
+8816-VXNZD,1,Month-to-month,75.1,Fiber optic,No,No,0.8627023431116203
+7601-GNDYK,35,Two year,19.6,No,No internet service,No internet service,0.8626032352244648
+0319-QZTCO,3,Month-to-month,58.7,DSL,No,No,0.8624806493482043
+6856-RAURS,2,Month-to-month,74.9,Fiber optic,No,No,0.8624788406061882
+0618-XWMSS,28,Month-to-month,74.9,Fiber optic,Yes,No,0.8621447442635395
+5846-ABOBJ,71,Two year,24.45,No,No internet service,No internet service,0.8620803812736447
+0675-NCDYU,72,Two year,116.4,Fiber optic,Yes,Yes,0.8618520886026778
+9978-HYCIN,47,One year,84.95,Fiber optic,No,No,0.8615485848592739
+2205-YMZZJ,7,Month-to-month,84.8,Fiber optic,No,No,0.8615051762334168
+5924-IFQTT,13,Month-to-month,72.8,DSL,No,Yes,0.8604519295486089
+7615-ESMYF,2,Month-to-month,44.6,DSL,No,No,0.8603964548979949
+9018-PCIOK,55,Two year,64.75,DSL,No,No,0.8603005656621192
+5192-EBGOV,1,Month-to-month,85.7,Fiber optic,No,No,0.8601253047869807
+9089-UOWJG,12,Month-to-month,58.35,DSL,No,No,0.8600678359462822
+4115-NZRKS,7,Month-to-month,89.15,Fiber optic,No,No,0.8599718750825356
+4412-YLTKF,27,Month-to-month,78.05,Fiber optic,No,No,0.8596940717807752
+3410-MHHUM,44,One year,94.4,Fiber optic,No,No,0.8594150761415906
+1494-EJZDW,10,Two year,20.15,No,No internet service,No internet service,0.8593708201043202
+5016-LIPDW,57,One year,19.4,No,No internet service,No internet service,0.8592694469806489
+8745-PVESG,57,One year,41.1,DSL,Yes,Yes,0.8591154250605034
+2260-USTRB,2,Month-to-month,70.2,Fiber optic,No,No,0.8590301851602737
+7905-TVXTA,5,Month-to-month,64.35,DSL,Yes,Yes,0.8588774283665107
+7379-FNIUJ,2,Month-to-month,100.2,Fiber optic,Yes,No,0.8586389130648516
+2842-BCQGE,43,Month-to-month,75.35,Fiber optic,No,No,0.8583154013742498
+8317-BVKSO,14,Month-to-month,20.05,No,No internet service,No internet service,0.8582841243486047
+2378-VTKDH,65,Month-to-month,104.35,Fiber optic,No,No,0.8582555002933842
+6434-TTGJP,10,Two year,53.7,DSL,Yes,Yes,0.8581682411695468
+1867-BDVFH,11,Month-to-month,74.35,Fiber optic,No,No,0.858102965078312
+9650-VBUOG,38,Two year,25.05,No,No internet service,No internet service,0.8576498962825231
+7576-OYWBN,3,Month-to-month,76.05,Fiber optic,No,No,0.8576256304894042
+2079-FBMZK,6,Month-to-month,69.25,Fiber optic,No,No,0.8569858726830486
+5955-EPOAZ,6,Month-to-month,20.95,No,No internet service,No internet service,0.85695001578367
+2587-YNLES,6,Two year,20.1,No,No internet service,No internet service,0.8567031528912581
+3737-GCSPV,11,Month-to-month,96.2,Fiber optic,Yes,Yes,0.8563584100235003
+5748-RNCJT,69,Two year,106.5,Fiber optic,No,Yes,0.8562509874776993
+1866-NXPSP,36,One year,75.55,DSL,Yes,Yes,0.8559087077743852
+7103-ZGVNT,69,One year,73.7,DSL,Yes,Yes,0.8559019682169265
+2203-GHNWN,24,Month-to-month,79.65,Fiber optic,No,No,0.855900231266329
+2157-MXBJS,13,One year,75.3,DSL,No,No,0.8558979966779208
+7851-WZEKY,2,Month-to-month,95.15,Fiber optic,No,No,0.8558952123521977
+1293-BSEUN,72,Two year,20.7,No,No internet service,No internet service,0.8556581555031485
+8597-CTXVJ,70,One year,64.95,DSL,Yes,Yes,0.8553882708068588
+2335-GSODA,23,Two year,40.1,DSL,Yes,Yes,0.8553146525105412
+7665-TOALD,1,Month-to-month,69.6,Fiber optic,No,No,0.8550672665662404
+4818-DRBQT,29,Month-to-month,80.15,Fiber optic,No,No,0.855023153615203
+6923-AQONU,23,Two year,20.9,No,No internet service,No internet service,0.8547228523985997
+8125-QPFJD,72,Two year,84.9,DSL,Yes,Yes,0.8547175788907344
+5499-ECUTN,47,One year,66.05,DSL,Yes,No,0.8547115774127689
+2382-BCKQJ,62,One year,100.15,Fiber optic,No,No,0.8544869995418506
+0266-CLZKZ,67,Two year,105.65,Fiber optic,No,Yes,0.8541449222265157
+9614-RMGHA,65,Month-to-month,91.85,Fiber optic,No,No,0.8541021032991327
+5981-ITEMU,40,Month-to-month,97.1,Fiber optic,No,No,0.8540791670930991
+9647-ERGBE,30,Month-to-month,100.05,Fiber optic,No,No,0.8538388557678891
+2920-RNCEZ,1,Month-to-month,69.95,Fiber optic,No,No,0.8538388557678891
+0374-IOEGQ,3,Month-to-month,44.6,DSL,No,No,0.8533249340730151
+8631-WUXGY,46,Month-to-month,99.8,Fiber optic,No,No,0.853317978210638
+6876-ADESB,1,Month-to-month,48.95,DSL,No,No,0.853317978210638
+4612-SSVHJ,20,Month-to-month,81.45,Fiber optic,No,No,0.8531859436370505
+6100-QQHEB,17,Month-to-month,92.55,Fiber optic,No,No,0.8530908066828647
+6175-IRFIT,5,Month-to-month,78.75,Fiber optic,No,No,0.8529045232736746
+6869-FGJJC,68,One year,79.6,Fiber optic,No,No,0.8527305273545791
+3063-QFSZL,1,Month-to-month,55.4,DSL,No,No,0.8526770022224694
+7399-QHBJS,72,Two year,66.75,DSL,Yes,Yes,0.8526707190275818
+6140-QNRQQ,1,Month-to-month,71.55,Fiber optic,No,No,0.8524656568631489
+3736-BLEPA,28,One year,91.25,Fiber optic,No,Yes,0.8523434196059284
+8097-OMULG,59,One year,76.75,DSL,No,Yes,0.8522344411086942
+2829-HYVZP,29,One year,19.8,No,No internet service,No internet service,0.8522344411086942
+8405-IGQFX,63,One year,90.05,Fiber optic,No,Yes,0.8522344411086942
+9061-TIHDA,13,Month-to-month,95.25,Fiber optic,No,No,0.8518589369727284
+5055-BRMNE,67,Two year,106.7,Fiber optic,Yes,Yes,0.8517192728659699
+4489-SNOJF,35,Month-to-month,72.25,DSL,Yes,Yes,0.8516182245770101
+2690-DVRVK,5,One year,20.55,No,No internet service,No internet service,0.8515503088756117
+6103-LIANB,59,Two year,99.5,Fiber optic,No,No,0.8513739480762177
+2719-BDAQO,17,Month-to-month,93.85,Fiber optic,Yes,No,0.851345408607636
+9356-AXGMP,38,One year,110.7,Fiber optic,Yes,Yes,0.851279714620998
+4026-SKKHW,3,Month-to-month,50.25,DSL,No,Yes,0.8511033942822737
+2832-KJCRD,38,Month-to-month,103.65,Fiber optic,No,Yes,0.8510870236166258
+5815-HGGHV,20,One year,64.15,DSL,Yes,Yes,0.850690656049129
+9367-TCUYN,12,Month-to-month,20.1,No,No internet service,No internet service,0.8497817586306812
+3774-VBNXY,64,Two year,20.2,No,No internet service,No internet service,0.849551839516313
+1241-FPMOF,52,Two year,19.65,No,No internet service,No internet service,0.8494677616029785
+0434-CSFON,47,Month-to-month,100.5,Fiber optic,No,No,0.849442623527106
+0667-NSRGI,48,One year,69.55,DSL,No,Yes,0.8491394162082063
+4718-WXBGI,72,Two year,91.95,DSL,Yes,Yes,0.8490893663595227
+9675-ICXCT,72,Two year,80.8,DSL,Yes,Yes,0.8489800122939168
+9974-JFBHQ,64,Month-to-month,99.15,Fiber optic,No,Yes,0.8486971803125486
+9602-WCXPI,50,One year,20.15,No,No internet service,No internet service,0.8486904959576449
+8205-VSLRB,70,Two year,77.3,DSL,Yes,Yes,0.8485620392043952
+5226-NOZFC,26,Month-to-month,85.75,Fiber optic,No,No,0.8479935534714795
+2454-RPBRZ,12,Month-to-month,98.1,Fiber optic,No,No,0.8479234732613464
+1395-WSWXR,24,Two year,20.75,No,No internet service,No internet service,0.8477164299130047
+2027-WKXMW,63,Month-to-month,108.75,Fiber optic,No,Yes,0.8476435267006022
+1159-WFSGR,16,Month-to-month,20.4,No,No internet service,No internet service,0.8475678000351259
+4187-CINZD,46,One year,95.25,Fiber optic,No,No,0.8475253335077021
+5389-FFVKB,32,Month-to-month,80.3,Fiber optic,No,No,0.8474723459883929
+7841-TZDMQ,2,Month-to-month,46.0,DSL,No,No,0.8473802693413104
+7825-GKXMW,1,Month-to-month,45.8,DSL,No,No,0.847375659742723
+4248-HCETZ,30,Month-to-month,79.65,Fiber optic,No,No,0.8470822401509698
+0422-OHQHQ,15,One year,20.55,No,No internet service,No internet service,0.8469979385429001
+6358-LYNGM,1,Month-to-month,74.9,Fiber optic,No,No,0.8466662290228797
+9742-XOKTS,67,One year,89.55,Fiber optic,Yes,Yes,0.8465957215626285
+9971-ZWPBF,34,Month-to-month,108.9,Fiber optic,No,Yes,0.8461015190338391
+1544-JJMYL,27,One year,69.35,DSL,Yes,Yes,0.8460101258960225
+2578-JQPHZ,44,Two year,100.1,Fiber optic,No,Yes,0.8459983011523778
+2080-GKCWQ,2,Month-to-month,74.95,Fiber optic,No,No,0.8459144672163825
+9214-EKVXR,1,Month-to-month,44.0,DSL,No,No,0.8456084766841409
+0326-VDYXE,70,One year,97.65,Fiber optic,No,No,0.8455798949244684
+4801-KFYKL,8,Month-to-month,19.45,No,No internet service,No internet service,0.8455556286293937
+7883-ROJOC,19,Month-to-month,44.9,DSL,No,No,0.8453533771939967
+7931-PXHFC,38,One year,62.3,DSL,No,Yes,0.8453522871309912
+1173-NOEYG,27,Month-to-month,90.15,Fiber optic,No,No,0.8453495496619002
+6839-ITVZJ,26,Month-to-month,60.05,DSL,No,Yes,0.8451736895701691
+9084-OAYKL,58,Two year,20.8,No,No internet service,No internet service,0.8450471901415298
+4067-HLYQI,33,Month-to-month,70.4,Fiber optic,No,No,0.8447858521084726
+0872-JCPIB,17,Month-to-month,65.75,DSL,Yes,No,0.844755620259121
+8089-UZWLX,71,Two year,104.05,Fiber optic,No,No,0.8447468351900781
+3097-FQTVJ,41,Two year,20.0,No,No internet service,No internet service,0.8438611762831728
+1602-IJQQE,4,Month-to-month,75.35,Fiber optic,No,No,0.8436043507967526
+0685-MLYYM,2,Month-to-month,70.75,Fiber optic,No,No,0.8433136766945135
+8670-ERCJH,72,Two year,113.4,Fiber optic,Yes,Yes,0.8431724166127934
+1905-OEILC,1,Month-to-month,19.5,No,No internet service,No internet service,0.8431466653892747
+6323-AYBRX,59,Two year,19.35,No,No internet service,No internet service,0.8431201807436417
+0512-FLFDW,60,One year,100.5,Fiber optic,No,No,0.8430191658602156
+3338-CVVEH,12,Month-to-month,94.55,Fiber optic,No,No,0.8428722513458314
+6674-KVJHG,11,One year,25.2,No,No internet service,No internet service,0.8425374574030928
+6087-MVHJH,16,Month-to-month,88.45,Fiber optic,No,No,0.8422569938909851
+5318-IXUZF,2,Month-to-month,87.15,Fiber optic,No,No,0.8422569938909851
+5515-RUGKN,8,Month-to-month,54.75,DSL,No,No,0.8420720765721481
+3752-CQSJI,13,Month-to-month,20.45,No,No internet service,No internet service,0.8419086612744371
+0557-ASKVU,18,One year,54.4,DSL,No,Yes,0.8418605516907856
+5829-NVSQN,23,One year,68.75,DSL,Yes,Yes,0.841356344662171
+4525-VZCZG,54,One year,105.85,Fiber optic,Yes,Yes,0.8413323180656854
+1763-KUAAW,18,One year,20.35,No,No internet service,No internet service,0.8413323180656854
+0354-WYROK,31,Month-to-month,98.9,Fiber optic,No,Yes,0.8412638262871408
+9411-TPQQV,40,One year,54.55,DSL,Yes,Yes,0.8410024882540835
+1325-USMEC,70,Two year,99.35,Fiber optic,Yes,No,0.8410024882540835
+7233-PAHHL,66,Two year,84.0,DSL,Yes,Yes,0.8409362816006073
+7394-FKDNK,9,Month-to-month,89.45,Fiber optic,No,No,0.8408631518671773
+2453-SAFNS,54,One year,72.1,DSL,No,Yes,0.8407644355157032
+2144-ESWKO,43,One year,35.2,DSL,Yes,No,0.8403731510267343
+5848-FHRFC,68,Two year,20.05,No,No internet service,No internet service,0.8399214993900276
+4723-BEGSG,72,Two year,86.65,DSL,Yes,Yes,0.8396802848811178
+4826-TZEVA,40,Month-to-month,74.8,Fiber optic,No,No,0.839644436316084
+9692-TUSXH,18,Month-to-month,96.05,Fiber optic,Yes,No,0.8394650315944722
+3374-TTZTK,52,Two year,106.3,Fiber optic,Yes,Yes,0.8394517196744026
+5520-FVEWJ,12,Month-to-month,84.5,Fiber optic,No,No,0.8394517196744026
+6288-LBEAR,23,Month-to-month,79.1,Fiber optic,No,Yes,0.8393153248987391
+9518-XXBXE,10,Month-to-month,75.3,Fiber optic,Yes,No,0.8393115662096284
+6543-CPZMK,9,Month-to-month,29.95,DSL,No,No,0.8392831744889966
+4607-CHPCA,25,One year,90.4,Fiber optic,No,No,0.8391188833373571
+6100-FJZDG,26,One year,20.05,No,No internet service,No internet service,0.8385157909759193
+8148-NLEGT,42,Two year,22.95,No,No internet service,No internet service,0.8372832075484493
+1518-VOWAV,9,Month-to-month,74.65,DSL,Yes,No,0.8372710242212343
+3318-ISQFQ,20,Month-to-month,19.5,No,No internet service,No internet service,0.8371187695111001
+0567-XRHCU,69,Two year,43.95,DSL,Yes,No,0.8368297329067177
+9398-MMQTO,3,Month-to-month,74.45,Fiber optic,No,No,0.8368297329067177
+5117-ZSMHQ,71,Two year,89.9,DSL,Yes,Yes,0.8367618172053192
+5451-YHYPW,72,Two year,115.75,Fiber optic,Yes,Yes,0.8362003162559836
+5146-YYFRZ,67,Two year,19.95,No,No internet service,No internet service,0.8361368814292115
+3768-NLUBH,57,Month-to-month,100.6,Fiber optic,No,No,0.8360165185843329
+6048-QBXKL,2,Month-to-month,56.55,DSL,No,No,0.8359195724584907
+2082-OJVTK,29,Month-to-month,89.2,Fiber optic,No,No,0.8357552132164059
+4534-WGCIR,58,Two year,25.15,No,No internet service,No internet service,0.8357466671172363
+3506-LCJDC,1,Month-to-month,19.95,No,No internet service,No internet service,0.835637781310427
+4609-KNNWG,27,Two year,19.9,No,No internet service,No internet service,0.8354073956438036
+7242-QZLXF,1,Month-to-month,25.3,DSL,No,No,0.8353950953069527
+8180-AKMJV,1,Month-to-month,44.55,DSL,No,No,0.8352664439205257
+4702-IOQDC,1,Month-to-month,70.1,Fiber optic,No,No,0.8352170587557665
+2082-CEFLT,1,Month-to-month,45.6,DSL,No,No,0.8351247548399128
+5298-GSTLM,60,One year,101.4,Fiber optic,Yes,No,0.8351122413297821
+7209-JCUDS,10,Month-to-month,94.9,Fiber optic,No,No,0.8347413987741064
+5859-HZYLF,26,Two year,19.15,No,No internet service,No internet service,0.8346698444177828
+1866-OBPNR,1,Month-to-month,74.6,Fiber optic,No,No,0.8346129259485529
+3870-SPZSI,70,Two year,113.05,Fiber optic,Yes,Yes,0.8346129259485529
+9830-ECLEN,58,One year,50.0,DSL,Yes,No,0.8346129259485529
+5014-GSOUQ,13,Two year,19.95,No,No internet service,No internet service,0.8343819652316724
+9199-PWQVC,63,One year,79.7,DSL,Yes,No,0.8343573889016078
+1640-PLFMP,1,Month-to-month,70.25,Fiber optic,No,No,0.8343008746892302
+3205-MXZRA,26,One year,59.45,DSL,No,Yes,0.834237753344019
+4335-UPJSI,24,Two year,19.75,No,No internet service,No internet service,0.8340676817383894
+9589-ABEPT,69,Two year,92.45,Fiber optic,No,Yes,0.8338617941560714
+8999-XXGNS,72,One year,105.75,Fiber optic,No,No,0.8336704858881028
+8474-UMLNT,13,Month-to-month,67.8,DSL,Yes,Yes,0.83364316311039
+9494-MRNYX,10,Month-to-month,75.05,Fiber optic,No,No,0.8336171778112511
+0848-SOMKO,70,Two year,48.4,DSL,Yes,Yes,0.8335874037821838
+1237-WIYYZ,18,Month-to-month,19.55,No,No internet service,No internet service,0.833426765725969
+8773-HHUOZ,17,Month-to-month,64.7,DSL,No,No,0.8333604585394009
+4097-YODCF,34,One year,103.8,Fiber optic,Yes,No,0.8332168088941188
+2321-OMBXY,38,One year,80.3,DSL,Yes,Yes,0.8328679733285734
+9209-NWPGU,44,One year,65.4,DSL,Yes,Yes,0.8328276531583897
+7989-AWGEH,49,Month-to-month,39.2,DSL,Yes,No,0.8326508260071874
+3096-WPXBT,61,One year,100.7,Fiber optic,Yes,No,0.8323538303276581
+2162-FRZAA,63,Two year,39.35,DSL,No,Yes,0.8323043204518058
+9286-DOJGF,38,Month-to-month,74.95,Fiber optic,No,No,0.8322635499942983
+0235-KGSLC,1,Month-to-month,85.55,Fiber optic,No,No,0.8322580916478057
+5202-IVJNU,39,Month-to-month,30.1,DSL,No,No,0.8317814888910188
+8414-MYSHR,5,Month-to-month,91.4,Fiber optic,No,No,0.8317713950904748
+5302-BDJNT,35,Month-to-month,95.5,Fiber optic,No,Yes,0.8315462563617182
+1845-ZLLIG,1,Month-to-month,50.15,DSL,No,No,0.8313063743271395
+9601-BRXPO,25,Month-to-month,104.95,Fiber optic,No,Yes,0.8310605880629193
+0864-FVJNJ,64,One year,113.35,Fiber optic,Yes,Yes,0.8305400436903478
+1285-OKIPP,1,Month-to-month,79.9,Fiber optic,No,No,0.8301016271541724
+6609-MXJHJ,30,Two year,25.1,No,No internet service,No internet service,0.8296759988026303
+3727-OWVYD,35,One year,61.2,DSL,Yes,No,0.8296423257154977
+2040-OBMLJ,31,One year,81.7,Fiber optic,No,Yes,0.8294587393224448
+3807-BPOMJ,55,One year,94.75,Fiber optic,Yes,No,0.8294546971682634
+8069-YQQAJ,14,Month-to-month,31.1,DSL,No,No,0.8293012879741924
+2595-KIWPV,27,Two year,19.7,No,No internet service,No internet service,0.8289907102521556
+6771-XWBDM,57,Month-to-month,104.5,Fiber optic,No,No,0.8289907102521556
+0330-BGYZE,60,One year,102.5,Fiber optic,No,No,0.82891647645213
+6982-UQZLY,1,Month-to-month,20.85,No,No internet service,No internet service,0.8287861868616906
+6127-IYJOZ,1,Month-to-month,45.85,DSL,No,No,0.8285995389871335
+8559-CIZFV,21,One year,77.5,DSL,Yes,Yes,0.8284778441856463
+8937-RDTHP,1,Month-to-month,84.6,Fiber optic,Yes,No,0.8283405939416773
+5366-OBVMR,18,Month-to-month,50.3,DSL,No,Yes,0.8282803298497063
+6168-YBYNP,59,Month-to-month,111.35,Fiber optic,No,Yes,0.8281117229335099
+7398-HPYZQ,71,Two year,90.55,DSL,Yes,Yes,0.8281103163396588
+3082-VQXNH,3,Month-to-month,29.8,DSL,No,No,0.8279637701355188
+7025-WCBNE,47,Two year,59.6,DSL,No,Yes,0.8279157587376053
+3104-OWCGK,60,One year,90.95,Fiber optic,No,No,0.8277337163544138
+2178-PMGCJ,22,Month-to-month,69.7,Fiber optic,No,No,0.8277337163544138
+6854-EXGSF,8,Month-to-month,65.5,DSL,Yes,No,0.8277126308120393
+8316-BBQAY,65,Two year,59.95,DSL,Yes,Yes,0.8276072960001017
+6629-LADHQ,2,Month-to-month,50.95,DSL,Yes,No,0.8274763260049153
+7005-CCBKV,6,Month-to-month,84.4,Fiber optic,No,No,0.8273083133084904
+6907-NZZIJ,36,Month-to-month,99.15,Fiber optic,No,No,0.8270005022447973
+4939-KYYPY,27,Month-to-month,59.45,DSL,No,Yes,0.8267727863483872
+4415-WNGVR,12,One year,79.2,DSL,Yes,Yes,0.8260237544212918
+6240-EURKS,18,Month-to-month,35.0,DSL,No,No,0.8257898500322335
+7663-CUXZB,59,Two year,113.75,Fiber optic,Yes,Yes,0.8257742557558795
+1576-PFZIW,70,Two year,105.35,Fiber optic,Yes,No,0.8257444562275453
+2731-GJRDG,32,One year,109.55,Fiber optic,Yes,Yes,0.8255477194525814
+3365-SAIGS,17,Month-to-month,83.55,Fiber optic,No,No,0.8250283569879234
+7147-AYBAA,37,Month-to-month,70.35,Fiber optic,No,No,0.8249726159760143
+6496-JDSSB,8,Month-to-month,80.0,Fiber optic,No,No,0.8248179896390269
+2171-UDMFD,32,Month-to-month,19.45,No,No internet service,No internet service,0.8245124951421335
+1009-IRMNA,7,Month-to-month,20.0,No,No internet service,No internet service,0.8244750126183971
+6217-TOWGS,17,Month-to-month,75.4,DSL,No,No,0.8243815492189457
+6969-MVBAI,9,Month-to-month,90.1,Fiber optic,No,No,0.8241019261142983
+6379-RXJRQ,10,Month-to-month,70.1,Fiber optic,No,No,0.8235356464807154
+3688-FTHLT,16,Month-to-month,63.05,DSL,No,No,0.8231728821979991
+6953-PBDIN,70,Two year,72.95,DSL,No,Yes,0.8226145566537844
+9928-BZVLZ,12,Two year,49.85,DSL,Yes,Yes,0.821950095156439
+2369-FEVNO,1,Month-to-month,19.9,No,No internet service,No internet service,0.821861421773765
+1492-KGETH,70,One year,78.35,DSL,Yes,Yes,0.8218371250601766
+2023-VQFDL,18,Month-to-month,19.0,No,No internet service,No internet service,0.8217885576323374
+1660-HSOOQ,1,Month-to-month,49.65,DSL,No,No,0.8216064914959094
+5937-EORGB,15,Month-to-month,96.5,Fiber optic,Yes,No,0.8215276897681061
+0334-GDDSO,3,Month-to-month,81.35,Fiber optic,No,No,0.8215150350099633
+1548-ARAGG,4,Month-to-month,58.5,DSL,No,Yes,0.8211929699039865
+6851-WEFYX,35,Month-to-month,100.8,Fiber optic,No,No,0.8207933940205683
+7016-BPGEU,29,Month-to-month,25.1,DSL,No,No,0.8207730084376463
+5889-JTMUL,50,Month-to-month,95.05,Fiber optic,No,No,0.8207441613132694
+9095-HFAFX,5,Month-to-month,81.0,Fiber optic,No,No,0.8206971738368348
+4979-HPRFL,56,Two year,24.15,No,No internet service,No internet service,0.8206809825886577
+9972-VAFJJ,53,One year,94.0,Fiber optic,No,Yes,0.8206372590267944
+0550-DCXLH,13,Month-to-month,73.35,DSL,No,Yes,0.8204138200722036
+7717-BICXI,60,Two year,20.55,No,No internet service,No internet service,0.8202491328149648
+8232-CTLKO,66,Two year,59.75,DSL,Yes,No,0.8200673322643187
+0731-EBJQB,52,One year,20.4,No,No internet service,No internet service,0.8199177600377462
+3320-VEOYC,14,Month-to-month,95.6,Fiber optic,No,No,0.8199132234694964
+7587-RZNME,3,Month-to-month,43.3,DSL,No,No,0.8198794918221454
+2632-TACXW,62,Two year,23.65,No,No internet service,No internet service,0.8196679429250271
+0730-KOAVE,30,Month-to-month,94.3,Fiber optic,Yes,No,0.8195100528419261
+1697-BCSHV,58,Month-to-month,66.8,DSL,No,No,0.8194935442998553
+2667-WYLWJ,8,One year,19.75,No,No internet service,No internet service,0.8194740372540934
+9651-GTSAQ,53,One year,106.1,Fiber optic,Yes,No,0.8194689726473556
+2227-JRSJX,21,Month-to-month,99.15,Fiber optic,No,Yes,0.8194051944681529
+3068-OMWZA,1,Month-to-month,88.8,Fiber optic,No,No,0.8193888100002856
+9509-MPYOD,35,One year,20.75,No,No internet service,No internet service,0.8193691807927792
+6022-KOUQO,2,Month-to-month,29.05,DSL,No,Yes,0.8190480254552337
+8735-IJJEG,14,Month-to-month,50.2,DSL,No,No,0.8190040042122833
+3009-JWMPU,62,One year,96.75,Fiber optic,No,No,0.8189828343231621
+5985-TBABQ,32,One year,74.75,DSL,Yes,No,0.8187081580118672
+4706-DGAHW,1,Month-to-month,45.2,DSL,No,No,0.8186623844348921
+2832-SCUCO,2,Month-to-month,19.9,No,No internet service,No internet service,0.8185050241648333
+7672-VFMXZ,57,Month-to-month,55.7,DSL,Yes,Yes,0.8182341794054941
+1354-YZFNB,4,Two year,19.55,No,No internet service,No internet service,0.8181493175850914
+0871-URUWO,13,Month-to-month,102.25,Fiber optic,No,No,0.8178669066767038
+9592-ERDKV,37,One year,79.25,DSL,Yes,No,0.8178669066767038
+8894-JVDCV,62,One year,115.05,Fiber optic,Yes,Yes,0.8176585836227745
+2682-KEVRP,22,One year,20.05,No,No internet service,No internet service,0.8174376396098324
+5294-CDGWY,51,One year,59.3,DSL,Yes,No,0.8174190115374803
+5543-QDCRY,4,Month-to-month,56.4,DSL,No,No,0.8174190115374803
+6092-QZVPP,36,Month-to-month,79.2,DSL,Yes,Yes,0.817282064197596
+2812-SFXMJ,1,Month-to-month,20.05,No,No internet service,No internet service,0.8172324905247443
+6176-YJWAS,72,Two year,97.95,Fiber optic,Yes,No,0.8172082885840123
+7982-VCELR,36,Month-to-month,94.8,Fiber optic,No,No,0.816724506414359
+7134-MJPDY,66,One year,102.85,Fiber optic,No,Yes,0.8162044519882712
+5804-HYIEZ,70,Month-to-month,106.05,Fiber optic,Yes,No,0.8158603540865108
+4881-GQJTW,14,Month-to-month,19.6,No,No internet service,No internet service,0.8158603540865108
+5875-YPQFJ,1,Month-to-month,69.9,Fiber optic,No,No,0.8158603540865108
+7752-XUSCI,60,Month-to-month,105.9,Fiber optic,No,No,0.8158603540865108
+2824-DXNKN,72,Two year,71.45,DSL,Yes,No,0.8154844965236382
+9695-IDRZR,34,Two year,116.15,Fiber optic,Yes,Yes,0.815442967426408
+5406-KGRMX,71,Two year,24.55,No,No internet service,No internet service,0.8154050468641078
+5871-DGTXZ,32,One year,19.8,No,No internet service,No internet service,0.8149796770867523
+4397-FRLTA,4,Month-to-month,20.15,No,No internet service,No internet service,0.8146714472051982
+2706-QZIHY,15,Two year,25.2,No,No internet service,No internet service,0.8145470930398993
+0463-ZSDNT,10,Month-to-month,56.75,DSL,No,No,0.8142702620251966
+5766-FTRTS,72,Two year,84.45,DSL,Yes,Yes,0.8142364106653573
+4445-KWOKW,42,One year,60.15,DSL,Yes,No,0.8141657720287292
+8402-OOOHJ,41,Two year,20.65,No,No internet service,No internet service,0.8138199779770033
+4182-BGSIQ,10,Month-to-month,19.8,No,No internet service,No internet service,0.8135963460174048
+1985-MBRYP,43,Two year,19.65,No,No internet service,No internet service,0.8135327018900718
+2959-EEXWB,45,Month-to-month,50.9,DSL,Yes,No,0.8134725358073073
+0018-NYROU,5,Month-to-month,68.95,Fiber optic,No,No,0.8132710085398365
+3223-WZWJM,26,Month-to-month,83.95,Fiber optic,No,No,0.8131825150229817
+2925-MXLSX,30,One year,68.95,DSL,No,No,0.8131740023183066
+4999-IEZLT,66,One year,29.45,DSL,No,Yes,0.8128383774375059
+2858-MOFSQ,17,One year,55.85,DSL,No,No,0.8126199075370643
+7216-EWTRS,1,Month-to-month,100.8,Fiber optic,No,No,0.8124783351052252
+7169-YWAMK,72,Two year,68.4,DSL,Yes,Yes,0.8124508188692648
+2311-QYMUQ,16,Month-to-month,89.45,Fiber optic,No,No,0.8123880305853965
+4726-DLWQN,50,Month-to-month,70.35,DSL,Yes,No,0.8122575329384404
+0795-XCCTE,72,Two year,25.4,No,No internet service,No internet service,0.8122123432952043
+1184-PJVDB,10,Month-to-month,79.95,Fiber optic,No,No,0.8121724895755266
+2828-SLQPF,19,Month-to-month,45.0,DSL,No,No,0.8121045810345576
+2520-SGTTA,0,Two year,20.0,No,No internet service,No internet service,0.8118753411212425
+4973-MGTON,71,Two year,84.4,DSL,Yes,Yes,0.8118753411212425
+2842-JTCCU,2,Month-to-month,46.05,DSL,No,No,0.8118643575097925
+1644-IRKSF,33,One year,93.8,Fiber optic,No,No,0.8116115022496072
+3211-AAPKX,20,Month-to-month,98.55,Fiber optic,No,Yes,0.8115464307362622
+7856-GANIL,45,One year,98.7,Fiber optic,No,Yes,0.8114802617453793
+3904-UKFRE,4,Month-to-month,80.1,Fiber optic,Yes,No,0.8113449932165563
+5343-SGUBI,52,One year,80.2,Fiber optic,No,No,0.8112828455925458
+0917-EZOLA,72,Two year,104.15,Fiber optic,No,No,0.8111666037756278
+2522-AHJXR,60,Month-to-month,109.45,Fiber optic,Yes,Yes,0.8109613119842867
+0679-TDGAK,50,One year,75.5,DSL,Yes,Yes,0.8107330854943859
+5889-LFOLL,13,Month-to-month,84.6,Fiber optic,No,No,0.8105585707378178
+7206-GZCDC,1,Month-to-month,69.25,Fiber optic,No,No,0.8103947947498807
+5716-EZXZN,65,Two year,99.05,Fiber optic,Yes,Yes,0.8103573375404227
+2135-DQWAQ,5,Month-to-month,85.3,Fiber optic,No,No,0.8103271613105314
+1635-HDGFT,19,Two year,20.5,No,No internet service,No internet service,0.8103190653355383
+2418-TPEUN,56,Two year,19.8,No,No internet service,No internet service,0.8101094368566657
+6047-YHPVI,5,Month-to-month,69.7,Fiber optic,No,No,0.8099508077614332
+7321-ZNSLA,13,Two year,40.55,DSL,Yes,Yes,0.809723476186526
+7495-OOKFY,8,Month-to-month,80.65,Fiber optic,No,No,0.8096374564049448
+5174-ITUMV,67,One year,105.4,Fiber optic,No,No,0.8096325459010889
+5115-GZDEL,72,Two year,67.2,DSL,Yes,Yes,0.8096031303717637
+9279-CJEOJ,21,Month-to-month,95.4,Fiber optic,No,No,0.8095672720082898
+6502-KUGLL,14,Month-to-month,59.45,DSL,Yes,Yes,0.8094692525510127
+1580-BMCMR,19,Month-to-month,87.3,Fiber optic,Yes,No,0.8093870628354334
+0576-WNXXC,27,Month-to-month,95.55,Fiber optic,No,No,0.8090700673974176
+4039-HEUNW,36,Month-to-month,96.5,Fiber optic,No,No,0.8089590804661312
+4274-OWWYO,1,Month-to-month,74.35,Fiber optic,No,No,0.8089542792573906
+3474-BAFSJ,57,Two year,57.5,DSL,No,Yes,0.8088631144038768
+9513-DXHDA,27,One year,81.7,DSL,Yes,Yes,0.8087630997756748
+1493-AMTIE,1,Month-to-month,20.2,No,No internet service,No internet service,0.8083722778029113
+9844-FELAJ,70,One year,107.9,Fiber optic,No,Yes,0.8081427966315542
+2325-WINES,32,One year,104.05,Fiber optic,No,No,0.8079035764438435
+1013-QCWAM,66,Month-to-month,100.8,Fiber optic,No,No,0.8078495032059956
+7392-YYPYJ,22,Month-to-month,100.65,Fiber optic,No,No,0.8074404826837462
+4830-FAXFM,19,Month-to-month,24.1,No,No internet service,No internet service,0.8074341247170183
+0136-IFMYD,69,Two year,109.95,Fiber optic,No,Yes,0.8073293389201466
+1779-PWPMG,72,Two year,114.65,Fiber optic,Yes,Yes,0.8069138780834787
+3580-GICBM,61,Two year,24.2,No,No internet service,No internet service,0.8068221855271624
+0856-NAOES,6,Month-to-month,60.9,DSL,No,No,0.806787229336997
+1229-RCALF,64,One year,115.0,Fiber optic,Yes,Yes,0.806610503637678
+3097-IDVPU,19,Month-to-month,50.1,DSL,No,No,0.8065643793353283
+3910-MRQOY,72,Two year,19.4,No,No internet service,No internet service,0.8064835213881248
+6278-FEPBZ,9,Month-to-month,20.25,No,No internet service,No internet service,0.8062479557706961
+5839-SUYVZ,16,Month-to-month,74.55,Fiber optic,No,Yes,0.8061528657537521
+2606-PKWJB,40,One year,40.25,DSL,Yes,Yes,0.8061008818813391
+1460-UZPRJ,60,Two year,19.95,No,No internet service,No internet service,0.8060588383765348
+5887-IKKYO,58,Two year,94.35,Fiber optic,No,Yes,0.8060565322541698
+0475-RIJEP,43,Month-to-month,77.85,Fiber optic,No,No,0.8057401554830029
+3345-JHUEO,4,Month-to-month,20.2,No,No internet service,No internet service,0.8055359160824562
+5951-AOFIH,33,Month-to-month,66.4,DSL,No,No,0.8051910277080921
+2609-IAICY,1,Month-to-month,77.15,Fiber optic,No,No,0.8050569518163827
+1407-DIGZV,3,Two year,19.1,No,No internet service,No internet service,0.8050211094543799
+2560-QTSBS,72,One year,23.3,No,No internet service,No internet service,0.8049449162219312
+3966-HRMZA,3,Month-to-month,75.05,Fiber optic,No,No,0.8049223177152779
+5481-NTDOH,67,One year,107.05,Fiber optic,Yes,No,0.8048977539403168
+6567-HOOPW,1,Month-to-month,79.2,Fiber optic,No,No,0.8048779880533367
+6563-VNPMN,45,Month-to-month,85.7,Fiber optic,Yes,Yes,0.8048779880533367
+9058-HRZSV,65,Month-to-month,94.4,Fiber optic,Yes,No,0.8048075715849697
+5542-TBBWB,1,Month-to-month,69.9,Fiber optic,No,No,0.8046628388620816
+2519-LBNQL,60,One year,104.35,Fiber optic,No,No,0.8045675483862861
+7244-KXYZN,24,One year,20.45,No,No internet service,No internet service,0.8040442732747447
+7623-HKYRK,6,Month-to-month,19.7,No,No internet service,No internet service,0.8039472477396938
+5320-BRKGK,58,Two year,75.8,DSL,Yes,Yes,0.8037968750263711
+1032-MAELW,68,One year,78.45,DSL,Yes,Yes,0.8037933745188913
+7929-SKFGK,70,Two year,114.3,Fiber optic,Yes,Yes,0.8036828899778754
+7369-TRPFD,19,One year,18.8,No,No internet service,No internet service,0.8031917965675696
+9769-TSBZE,70,Two year,66.0,DSL,Yes,Yes,0.8031179169487345
+0096-BXERS,6,Month-to-month,50.35,DSL,No,No,0.8030338794276353
+8766-PAFNE,71,Two year,79.1,DSL,No,Yes,0.8030029657882514
+3154-CFSZG,47,Month-to-month,90.05,Fiber optic,Yes,No,0.8028522330779212
+3143-ILDAL,56,Month-to-month,94.45,Fiber optic,No,Yes,0.8027697083332676
+5382-SOYZL,22,Month-to-month,95.1,Fiber optic,No,No,0.8026862563509712
+9257-AZMTZ,52,Two year,20.1,No,No internet service,No internet service,0.8026143883951794
+4462-CYWMH,62,Month-to-month,89.8,Fiber optic,No,No,0.8023138638843567
+4226-KKDON,8,Month-to-month,66.65,DSL,No,Yes,0.8022475377374397
+1919-RTPQD,7,Month-to-month,44.75,DSL,No,No,0.8022230832473904
+4647-XXZAM,6,Month-to-month,45.5,DSL,No,No,0.8021623124279216
+4475-NVTLU,45,Two year,19.2,No,No internet service,No internet service,0.8021146053178717
+5804-JMYIO,39,Two year,19.75,No,No internet service,No internet service,0.8018637219836657
+3389-KTRXV,23,Two year,23.85,No,No internet service,No internet service,0.8017151598481876
+8824-RWFXJ,3,Month-to-month,56.15,DSL,No,No,0.8015276559218465
+4695-WJZUE,2,Month-to-month,88.55,Fiber optic,No,No,0.8015089475358934
+7075-BNDVQ,4,Month-to-month,35.0,DSL,Yes,No,0.8014982622543252
+0516-WJVXC,5,Month-to-month,54.2,DSL,Yes,Yes,0.8013845441801333
+0308-GIQJT,71,One year,105.75,Fiber optic,No,Yes,0.8013216177519561
+8626-PTQGE,69,Two year,60.05,DSL,Yes,Yes,0.801240054736212
+9898-KZQDZ,40,Month-to-month,94.55,Fiber optic,No,No,0.8011866191310663
+6924-TDGMT,11,One year,20.55,No,No internet service,No internet service,0.8011592576557927
+6173-GOLSU,67,Month-to-month,94.65,Fiber optic,No,No,0.8010114292625956
+0786-VSSUD,16,Month-to-month,39.0,DSL,No,No,0.8007312088094801
+5995-OIGLP,12,Month-to-month,56.65,DSL,Yes,Yes,0.800607820152409
+4869-EPIUS,56,One year,80.9,Fiber optic,No,No,0.8005784682857694
+4299-OPXEJ,56,Two year,19.55,No,No internet service,No internet service,0.8005066386703659
+3970-XGJDU,62,Two year,19.2,No,No internet service,No internet service,0.8003752730129744
+0871-OPBXW,2,Month-to-month,20.05,No,No internet service,No internet service,0.800211488032679
+6134-KWTBV,62,Two year,23.4,No,No internet service,No internet service,0.8001528569570776
+9558-IHEZX,71,Two year,106.75,Fiber optic,Yes,No,0.8001463855211739
+3969-GYXEL,11,Month-to-month,76.4,Fiber optic,Yes,No,0.7999120841827253
+2988-GBIVW,70,Month-to-month,90.85,Fiber optic,Yes,No,0.7994549482302918
+9717-QEBGU,2,Month-to-month,70.3,Fiber optic,No,No,0.7992667732488177
+1357-BIJKI,50,One year,98.25,Fiber optic,No,No,0.7992656602658079
+4884-LEVMQ,39,Two year,20.45,No,No internet service,No internet service,0.7992522054311583
+9251-AWQGT,48,Two year,20.0,No,No internet service,No internet service,0.7990430734346999
+7876-AEHIG,51,One year,60.15,DSL,Yes,Yes,0.7987731625814947
+3253-HKOKL,52,One year,100.3,Fiber optic,Yes,No,0.798742086221954
+3002-WQZWT,29,Month-to-month,74.2,Fiber optic,No,No,0.798586832868061
+6624-JDRDS,6,Month-to-month,29.45,DSL,Yes,No,0.7985021499334835
+7488-MXJIV,4,Month-to-month,85.65,Fiber optic,No,No,0.798407259334289
+2774-LVQUS,15,Month-to-month,83.05,Fiber optic,No,Yes,0.798094393401946
+6345-FZOQH,69,Two year,19.9,No,No internet service,No internet service,0.7979462908851596
+2466-FCCPT,20,One year,19.7,No,No internet service,No internet service,0.7977667624449711
+8221-HVAYI,35,Two year,69.15,DSL,Yes,Yes,0.7977341602877404
+0459-SPZHJ,63,Two year,83.5,DSL,Yes,No,0.7977341602877404
+6427-FEFIG,24,Two year,78.6,DSL,Yes,No,0.7977042210300185
+3410-YOQBQ,31,Two year,79.2,DSL,No,Yes,0.7975448285507176
+1265-BCFEO,71,Two year,80.45,DSL,No,Yes,0.7973289192051096
+7089-XXAYG,25,One year,38.1,DSL,No,No,0.7971519358807367
+4824-GUCBY,22,Month-to-month,81.7,Fiber optic,Yes,No,0.7970523274593387
+4847-TAJYI,6,Month-to-month,89.35,Fiber optic,No,No,0.7970523274593387
+4121-AGSIN,58,One year,24.5,No,No internet service,No internet service,0.7970523274593387
+9470-XCCEM,35,Month-to-month,89.65,Fiber optic,No,No,0.7970339228828965
+0491-KAPQG,21,Month-to-month,73.7,Fiber optic,No,No,0.7966157223855371
+3473-XIIIT,16,Month-to-month,100.0,Fiber optic,No,No,0.7962912318919116
+1657-DYMBM,53,Two year,19.9,No,No internet service,No internet service,0.7962911087807663
+6188-UXBBR,38,One year,20.25,No,No internet service,No internet service,0.7960834558102633
+3481-JHUZH,41,Month-to-month,80.25,Fiber optic,No,No,0.7958346591039214
+9681-KYGYB,49,Month-to-month,88.2,Fiber optic,Yes,No,0.7955638397747429
+4480-QQRHC,8,Month-to-month,74.05,Fiber optic,No,No,0.7953428458598669
+2968-SSGAA,10,Month-to-month,100.6,Fiber optic,No,No,0.7952070071294819
+0885-HMGPY,62,Two year,69.4,DSL,Yes,Yes,0.7951775469546785
+1928-BXYIV,1,Month-to-month,61.15,DSL,Yes,No,0.7951582757509209
+6365-MTGZX,24,Month-to-month,96.0,Fiber optic,No,Yes,0.7950965171569777
+3061-BCKYI,14,Month-to-month,19.9,No,No internet service,No internet service,0.7950965171569777
+1935-IMVBB,56,Month-to-month,89.7,Fiber optic,No,No,0.7949367649539271
+3391-JSQEW,40,Month-to-month,50.15,DSL,No,No,0.7948709566074317
+2654-VBVPB,1,Month-to-month,19.9,No,No internet service,No internet service,0.7947540970440595
+5060-TQUQN,30,Month-to-month,83.55,Fiber optic,No,Yes,0.7945275793784515
+4482-FTFFX,5,Month-to-month,56.15,DSL,No,Yes,0.7944187666641056
+9796-BPKIW,8,Month-to-month,69.95,Fiber optic,No,No,0.7939501909033119
+9767-FFLEM,38,Month-to-month,69.5,Fiber optic,No,No,0.7939429217894651
+0635-WKOLD,40,One year,70.75,DSL,No,Yes,0.7933861201238502
+9670-BPNXF,45,One year,62.55,DSL,Yes,Yes,0.7933585252004225
+8963-JLGJT,3,Month-to-month,55.9,DSL,Yes,No,0.7932930920599176
+7225-CBZPL,17,Month-to-month,94.8,Fiber optic,No,No,0.7932313198782504
+4855-SNKMY,1,Month-to-month,44.1,DSL,No,No,0.7929151605380934
+2801-NISEI,24,Month-to-month,54.95,DSL,Yes,Yes,0.7928884322395274
+2815-CPTUL,5,Month-to-month,70.25,Fiber optic,No,No,0.7928067888365277
+1480-BKXGA,72,Two year,116.05,Fiber optic,Yes,Yes,0.7927161349679019
+6888-SBYAI,1,Month-to-month,50.7,DSL,Yes,No,0.7926694702014965
+1052-QJIBV,71,Two year,19.9,No,No internet service,No internet service,0.7926185966039431
+4088-YLDSU,55,One year,104.15,Fiber optic,No,Yes,0.7925670614739008
+2279-AXJJK,52,Month-to-month,95.65,Fiber optic,No,Yes,0.7924453100060558
+0376-YMCJC,23,Month-to-month,90.6,Fiber optic,No,Yes,0.7922526007499616
+4195-PNGZS,69,Two year,24.45,No,No internet service,No internet service,0.7920065614842925
+0447-BEMNG,48,Month-to-month,45.3,DSL,Yes,No,0.7915002129125339
+6298-QDFNH,22,Month-to-month,79.35,Fiber optic,No,No,0.7914675792641483
+8625-AZYZY,24,Month-to-month,104.65,Fiber optic,No,No,0.7914544558546581
+8562-GHPPI,1,Month-to-month,19.8,No,No internet service,No internet service,0.7913773426172471
+4526-EXKKN,40,Two year,24.6,No,No internet service,No internet service,0.791360005151008
+1468-DEFNC,64,Two year,24.4,No,No internet service,No internet service,0.7913377431270773
+5930-GBIWP,69,Two year,81.5,DSL,Yes,Yes,0.7911778912815334
+0621-HJWXJ,63,Month-to-month,81.55,Fiber optic,No,No,0.7910194383605287
+9661-ACXBS,42,Month-to-month,105.2,Fiber optic,Yes,No,0.7909407253465236
+5424-RLQLC,10,Month-to-month,59.65,DSL,No,No,0.7908641316545294
+9402-ROUMJ,67,One year,100.25,Fiber optic,Yes,Yes,0.7908489181935411
+9290-SHCMB,13,Month-to-month,96.85,Fiber optic,No,No,0.7905742637235745
+5188-HGMLP,54,Month-to-month,74.0,Fiber optic,No,No,0.7904166844118327
+5054-IEXZT,1,Month-to-month,75.35,Fiber optic,No,No,0.7903277572632882
+1702-CCFNJ,52,Month-to-month,61.35,DSL,No,Yes,0.7902217090905627
+0089-IIQKO,39,Month-to-month,99.95,Fiber optic,No,Yes,0.790160508575281
+0221-WMXNQ,4,Month-to-month,75.35,Fiber optic,Yes,No,0.7901430473528213
+8929-KSWIH,25,Two year,99.3,Fiber optic,No,Yes,0.7896235189124158
+8634-CILSZ,69,One year,104.7,Fiber optic,No,Yes,0.7894943330825387
+3583-KRKMD,18,Month-to-month,75.9,Fiber optic,No,Yes,0.7894297281379582
+3401-URHDA,51,One year,59.9,DSL,Yes,Yes,0.7893601327862961
+7502-BNYGS,46,Month-to-month,69.1,DSL,No,No,0.7892404826693982
+3799-ISUZQ,7,Month-to-month,69.95,Fiber optic,No,No,0.789021325615822
+8819-ZBYNA,58,Two year,109.1,Fiber optic,Yes,Yes,0.7887784143434944
+8591-NXRCV,41,Month-to-month,74.65,DSL,Yes,Yes,0.788656518999849
+5564-NEMQO,1,Month-to-month,75.3,Fiber optic,No,No,0.7886458213336255
+2223-GDSHL,71,Two year,116.05,Fiber optic,Yes,Yes,0.7885479488669896
+7305-ZWMAJ,30,One year,20.7,No,No internet service,No internet service,0.7885479488669896
+7029-IJEJK,54,One year,44.1,DSL,Yes,Yes,0.7884480514908856
+3224-DFQNQ,66,One year,89.0,Fiber optic,Yes,Yes,0.78829133555314
+1682-VCOIO,23,One year,20.45,No,No internet service,No internet service,0.7880818847084587
+6166-ILMNY,2,Month-to-month,69.75,Fiber optic,No,No,0.7877972420890458
+1550-LOAHA,32,Month-to-month,84.15,Fiber optic,No,No,0.7875534708665748
+2806-MLNTI,52,One year,105.1,Fiber optic,No,No,0.7874601639729911
+3765-JXVKY,1,Month-to-month,74.7,Fiber optic,No,No,0.787323324945798
+7758-UJWYS,34,Two year,40.55,DSL,No,Yes,0.7873227900583806
+9389-ACWBI,5,Month-to-month,69.95,Fiber optic,No,No,0.7872224076979617
+0078-XZMHT,72,Two year,85.15,DSL,No,Yes,0.7871316545563463
+7698-YFGEZ,1,Month-to-month,20.0,No,No internet service,No internet service,0.7870954068324498
+7249-WBIYX,10,Month-to-month,85.6,Fiber optic,No,No,0.7867620813475789
+7718-RXDGG,15,Month-to-month,68.6,Fiber optic,No,No,0.7865527229413385
+7470-MCQTK,13,Month-to-month,48.75,DSL,No,No,0.7862250116787081
+3797-FKOGQ,11,Month-to-month,86.2,Fiber optic,No,No,0.7859340811192449
+6625-IUTTT,67,Two year,65.55,DSL,Yes,No,0.7858844079698462
+3239-TPHPZ,12,Two year,20.05,No,No internet service,No internet service,0.7858187846684391
+5256-SKJGO,64,Two year,54.6,DSL,No,Yes,0.785751060108257
+6461-SZMCV,71,Two year,87.95,DSL,Yes,Yes,0.7857230810337172
+0023-UYUPN,50,One year,25.2,No,No internet service,No internet service,0.7857230810337172
+5940-AHUHD,1,Month-to-month,70.6,Fiber optic,No,No,0.7857230810337172
+9891-NQDBD,28,One year,25.55,No,No internet service,No internet service,0.7854607843644268
+7813-ZGGAW,31,Month-to-month,96.6,Fiber optic,No,Yes,0.7854607843644268
+1345-GKDZZ,6,Month-to-month,19.55,No,No internet service,No internet service,0.7854010721949334
+8672-OAUPW,51,One year,47.85,DSL,No,Yes,0.7854010721949334
+8024-XNAFQ,72,Two year,107.4,Fiber optic,Yes,Yes,0.7854010721949334
+4806-HIPDW,1,Month-to-month,68.95,Fiber optic,No,No,0.7854010721949334
+5288-AHOUP,11,Month-to-month,78.5,Fiber optic,No,No,0.7854010721949334
+4597-ELFTS,56,One year,24.9,No,No internet service,No internet service,0.7852339414210582
+8035-BUYVG,40,One year,42.35,DSL,Yes,No,0.7848629464914727
+5195-KPUNQ,53,One year,96.75,Fiber optic,Yes,Yes,0.7848036286180357
+4760-XOHVN,1,Month-to-month,19.45,No,No internet service,No internet service,0.7847927455340086
+0228-MAUWC,19,Month-to-month,59.55,DSL,No,Yes,0.7847335380439625
+1357-MVDOZ,11,Month-to-month,59.65,DSL,No,No,0.7846035997424794
+3027-YNWZU,64,Two year,25.0,No,No internet service,No internet service,0.7842800392142028
+0930-EHUZA,36,One year,76.35,DSL,Yes,Yes,0.7841832680953321
+6408-WHTEF,72,Two year,89.4,DSL,Yes,Yes,0.7839691538895274
+7826-VVKWT,24,Two year,96.55,Fiber optic,No,No,0.783769788138777
+3190-ITQXP,46,Two year,20.25,No,No internet service,No internet service,0.7834900102399593
+4140-WJAWW,5,Month-to-month,19.85,No,No internet service,No internet service,0.7834397959798572
+5399-ZIMKF,5,Month-to-month,74.65,Fiber optic,No,No,0.7831027641712923
+6861-XWTWQ,7,Month-to-month,99.25,Fiber optic,No,No,0.7830372944135129
+3441-CGZJH,43,One year,60.4,DSL,Yes,Yes,0.7829235471013719
+8277-RVRSV,33,One year,24.15,No,No internet service,No internet service,0.7829185098304956
+4707-YNOQA,34,One year,25.6,No,No internet service,No internet service,0.7826483925602449
+3508-VLHCZ,71,Two year,90.55,DSL,Yes,Yes,0.7824168160929402
+5404-GGUKR,5,Month-to-month,51.35,DSL,No,No,0.7822846590679027
+2840-XANRC,24,Month-to-month,93.15,Fiber optic,No,No,0.7821783268119106
+6413-XKKPU,17,Month-to-month,89.4,Fiber optic,Yes,No,0.781889760667313
+2189-WWOEW,15,Month-to-month,85.9,Fiber optic,No,No,0.7818774796075516
+3640-JQGJG,13,Month-to-month,44.8,DSL,No,No,0.7818636052413563
+9385-NXKDA,72,Two year,82.65,DSL,Yes,No,0.781514128172057
+4686-UXDML,21,Month-to-month,99.85,Fiber optic,No,No,0.7814782946936966
+2239-CGBUZ,51,One year,60.5,DSL,Yes,Yes,0.7810268384866199
+2961-VNFKL,71,Two year,25.95,No,No internet service,No internet service,0.7807279536057803
+3920-HIHMQ,26,Month-to-month,49.5,DSL,No,No,0.7806805022133162
+1223-UNPKS,20,Two year,20.05,No,No internet service,No internet service,0.780341523194133
+3850-OKINF,71,One year,66.2,DSL,Yes,No,0.7803158937657058
+4592-IWTJI,3,Month-to-month,29.7,DSL,Yes,No,0.780106409916503
+8498-XXGWA,65,Month-to-month,55.15,DSL,Yes,No,0.7799530185708722
+8617-ENBDS,3,Month-to-month,73.6,Fiber optic,No,No,0.7797987323519158
+7570-WELNY,68,Two year,84.7,Fiber optic,Yes,No,0.7796490290418848
+8259-DZLIZ,64,One year,53.85,DSL,No,No,0.779479876843671
+8401-EMUWF,42,Month-to-month,69.4,DSL,Yes,No,0.7792744207140515
+9584-EXCDZ,17,Month-to-month,70.5,Fiber optic,No,No,0.7791881917482647
+5780-INQIK,8,Month-to-month,49.4,DSL,No,Yes,0.7791881917482647
+7247-XOZPB,53,One year,77.4,DSL,Yes,Yes,0.7790987746126625
+7330-WZLNC,5,Month-to-month,90.8,Fiber optic,No,No,0.7789898370368536
+1845-CSBRZ,22,Month-to-month,85.35,Fiber optic,No,No,0.77891782401954
+0310-VQXAM,9,Month-to-month,19.85,No,No internet service,No internet service,0.7788648310975904
+0322-YINQP,1,Month-to-month,48.55,DSL,Yes,No,0.7788290099400494
+8690-ZVLCL,68,Two year,88.0,DSL,Yes,Yes,0.7786725182327662
+7096-UCLNH,1,Month-to-month,20.05,No,No internet service,No internet service,0.7784690439914502
+7175-NTIXE,25,Month-to-month,76.15,DSL,Yes,Yes,0.7783155972939945
+0310-SUCIN,71,One year,84.8,DSL,Yes,Yes,0.7781709157268938
+3536-IQCTX,32,Month-to-month,85.3,Fiber optic,No,No,0.7780603776885181
+2240-HSJQD,38,Month-to-month,81.85,Fiber optic,No,No,0.7779559838531411
+5161-XEUVX,37,Two year,94.3,Fiber optic,No,Yes,0.7779398829348281
+8904-OPDCK,54,Month-to-month,24.95,DSL,No,No,0.777417378229145
+3672-YITQD,36,Month-to-month,84.1,Fiber optic,No,No,0.7774089635103631
+7102-JJVTX,9,One year,48.6,DSL,Yes,No,0.7772852497341646
+2725-TTRIQ,72,Two year,84.2,DSL,Yes,Yes,0.777256699038726
+7328-ZJAJO,59,Two year,19.5,No,No internet service,No internet service,0.7770587395098643
+9026-RNUJS,5,Month-to-month,50.35,DSL,No,No,0.7769196690445641
+3393-FMZPV,25,Month-to-month,100.25,Fiber optic,No,No,0.7764123734135133
+0596-BQCEQ,62,Month-to-month,100.15,Fiber optic,No,No,0.7763659658270038
+4770-UEZOX,2,Month-to-month,74.75,Fiber optic,No,No,0.7763488594524955
+6980-IMXXE,69,Two year,20.2,No,No internet service,No internet service,0.775976743923798
+0017-DINOC,54,Two year,45.2,DSL,Yes,Yes,0.7757498810043422
+6341-JVQGF,31,One year,81.15,DSL,Yes,Yes,0.775747544222373
+7607-QKKTJ,45,One year,95.0,Fiber optic,No,No,0.7756883827912446
+4659-NZRUF,19,Month-to-month,95.15,Fiber optic,Yes,No,0.7756667664172799
+0585-EGDDA,40,Month-to-month,80.0,Fiber optic,No,No,0.7756526199853312
+2189-UXTKY,22,Month-to-month,79.2,DSL,Yes,Yes,0.7755559284942543
+8685-WHQPW,22,Month-to-month,74.4,Fiber optic,No,No,0.7753218040935766
+4291-TPNFG,72,Two year,82.3,DSL,Yes,Yes,0.7752325966715476
+6906-MPARY,40,One year,89.6,Fiber optic,No,Yes,0.7750421641140294
+1261-FWTTE,23,Month-to-month,34.65,DSL,No,No,0.7743858548363259
+0096-FCPUF,30,Month-to-month,64.5,DSL,Yes,No,0.7740321272744921
+0980-PVMRC,40,Month-to-month,50.85,DSL,No,No,0.7739956742559068
+9788-HNGUT,72,Two year,116.95,Fiber optic,Yes,Yes,0.7739174060632803
+9967-ATRFS,19,Month-to-month,19.9,No,No internet service,No internet service,0.7738693208083799
+6322-PJJDJ,49,Two year,94.8,Fiber optic,No,No,0.7738364177151774
+8457-XIGKN,20,Month-to-month,19.6,No,No internet service,No internet service,0.7730802920922224
+6258-NGCNG,7,Month-to-month,23.5,No,No internet service,No internet service,0.7729044472782828
+3721-WKIIL,27,Two year,19.6,No,No internet service,No internet service,0.7729044472782828
+8378-LKJAF,38,Month-to-month,101.15,Fiber optic,No,No,0.7728713309091962
+3006-XIMLN,2,Month-to-month,94.2,Fiber optic,No,No,0.7727900080217219
+7851-FLGGQ,1,Month-to-month,44.65,DSL,No,Yes,0.772784461779838
+8835-VSDSE,2,Month-to-month,70.7,Fiber optic,No,No,0.7727714733558178
+4546-FOKWR,16,Month-to-month,74.75,Fiber optic,No,No,0.7726796481741169
+2880-FPNAE,2,Month-to-month,74.2,Fiber optic,No,No,0.7720709822736729
+0513-RBGPE,37,Two year,62.8,DSL,Yes,Yes,0.7720528544247977
+8046-DNVTL,62,Two year,38.6,DSL,Yes,Yes,0.772002581986992
+2685-SREOM,25,Month-to-month,89.1,Fiber optic,No,No,0.7719934561266756
+2959-FENLU,9,Month-to-month,85.3,Fiber optic,No,No,0.7718162682501614
+5832-XKAES,2,Month-to-month,69.8,Fiber optic,No,No,0.7718082681966121
+4570-QHXHL,9,Month-to-month,43.75,DSL,No,No,0.7717640930685876
+9309-BZGNT,69,One year,29.8,DSL,No,No,0.771759919981273
+5795-KTGUD,68,Two year,110.8,Fiber optic,Yes,No,0.7715552306040131
+9609-BENEA,35,One year,69.0,DSL,No,Yes,0.7715292979090481
+4853-OITSN,5,Month-to-month,89.15,Fiber optic,Yes,No,0.7711312642644831
+6481-ESCNL,29,Month-to-month,100.55,Fiber optic,No,No,0.7710827788943447
+7558-IMLMT,67,Two year,20.8,No,No internet service,No internet service,0.7710130280954438
+1571-SAVHK,12,Month-to-month,99.95,Fiber optic,No,Yes,0.7709576494863293
+4137-JOPHL,50,Two year,89.7,Fiber optic,No,Yes,0.7708581956782212
+4132-POCZS,52,Month-to-month,39.9,DSL,Yes,No,0.7707200323777221
+1536-YHDOE,17,One year,62.1,DSL,Yes,Yes,0.7706245484493232
+1450-SKCVI,56,Month-to-month,73.85,Fiber optic,No,No,0.7706245484493232
+5598-IKHQQ,72,Two year,25.45,No,No internet service,No internet service,0.770564942338337
+1686-STUHN,42,One year,19.8,No,No internet service,No internet service,0.7698170142437779
+7314-OXENN,2,Month-to-month,82.0,Fiber optic,No,No,0.7697835558265919
+9418-RUKPH,38,Two year,19.95,No,No internet service,No internet service,0.7697099225105771
+0774-RMNUW,71,Two year,59.7,DSL,Yes,Yes,0.769641572263452
+7754-IXRMC,1,Month-to-month,45.35,DSL,No,No,0.7692841589063251
+7675-OZCZG,3,Month-to-month,45.0,DSL,No,No,0.7692796079615374
+7446-SFAOA,37,One year,19.85,No,No internet service,No internet service,0.7691808855416045
+0377-JBKKT,22,Month-to-month,57.95,DSL,Yes,Yes,0.7691016175956926
+5130-IEKQT,25,Month-to-month,105.95,Fiber optic,No,No,0.7691016175956926
+5766-XQXMQ,29,Month-to-month,68.85,DSL,Yes,No,0.769071854450798
+4750-UKWJK,37,One year,19.6,No,No internet service,No internet service,0.768935821425099
+9507-EXLTT,1,Month-to-month,79.35,Fiber optic,No,No,0.7685513448426436
+3165-HDOEW,1,Month-to-month,45.85,DSL,No,No,0.7685367079409575
+5519-NPHVG,12,Month-to-month,94.2,Fiber optic,No,No,0.7684530054251649
+8181-YHCMF,68,Two year,60.3,DSL,No,Yes,0.7684444489545806
+7519-JTWQH,69,Two year,110.5,Fiber optic,No,Yes,0.7683692522440133
+1268-ASBGA,16,Month-to-month,85.35,Fiber optic,No,No,0.7683634468172198
+4283-FUTGF,19,Month-to-month,79.85,Fiber optic,No,No,0.7682066052804492
+1043-YCUTE,56,Two year,25.15,No,No internet service,No internet service,0.7679959407940862
+4468-KAZHE,20,Month-to-month,60.0,DSL,No,No,0.7679709881594239
+6211-WHMYA,64,Month-to-month,43.85,DSL,No,Yes,0.7678593661572757
+2359-KMGLI,24,Month-to-month,80.25,Fiber optic,No,No,0.7677330297405236
+0488-GSLFR,1,Month-to-month,69.5,Fiber optic,No,No,0.7674516616543756
+2332-TODQS,48,One year,25.05,No,No internet service,No internet service,0.7672356519555247
+4702-HDRKD,67,One year,49.35,DSL,Yes,Yes,0.7669521791330604
+5712-PTIWW,2,Month-to-month,79.85,Fiber optic,No,Yes,0.7668278026479802
+5546-QUERU,13,One year,19.95,No,No internet service,No internet service,0.7668278026479802
+2962-XPMCQ,2,Month-to-month,45.15,DSL,No,No,0.7668278026479802
+6993-OHLXR,2,Month-to-month,68.95,Fiber optic,No,No,0.7668278026479802
+0117-LFRMW,37,Month-to-month,40.2,DSL,Yes,No,0.7666477390015817
+8659-HDIYE,64,Month-to-month,74.65,DSL,No,Yes,0.7665293761960515
+2344-JMOGN,9,Month-to-month,94.85,Fiber optic,No,Yes,0.7664213339950038
+2845-AFFTX,41,Month-to-month,99.8,Fiber optic,No,No,0.7663051839792501
+7285-KLOTR,12,One year,78.85,DSL,Yes,No,0.7662551902981747
+0787-LHDYT,16,Month-to-month,20.6,No,No internet service,No internet service,0.7660266701544471
+5445-PZWGX,62,One year,102.0,Fiber optic,Yes,Yes,0.7659685064781336
+7008-LZVOZ,66,Two year,25.3,No,No internet service,No internet service,0.7659685064781336
+0655-YDGFJ,29,Month-to-month,48.95,DSL,No,No,0.765899635839586
+9365-CSLBQ,71,Two year,24.35,No,No internet service,No internet service,0.7658479293030664
+2482-CZGBB,10,Month-to-month,70.0,Fiber optic,No,No,0.7658005320674738
+2674-MIAHT,4,Month-to-month,80.3,Fiber optic,No,No,0.7656727180547527
+2277-DJJDL,60,Month-to-month,99.0,Fiber optic,No,Yes,0.7656325498320021
+4933-BSAIP,40,Two year,19.1,No,No internet service,No internet service,0.7655056325497877
+7137-NAXML,23,One year,20.15,No,No internet service,No internet service,0.7654814334622145
+4079-WWQQQ,72,Two year,65.55,DSL,Yes,Yes,0.7653669493269497
+7845-URHJN,8,Month-to-month,20.15,No,No internet service,No internet service,0.765105305387015
+4324-BZCKL,10,Month-to-month,55.55,DSL,No,No,0.7649312876428431
+7632-YUTXB,25,One year,20.05,No,No internet service,No internet service,0.76488276697126
+1213-NGCUN,6,Month-to-month,49.65,DSL,No,Yes,0.7644226823212139
+9223-UCPVT,1,Month-to-month,94.4,Fiber optic,No,No,0.7643734427795575
+8606-OEGQZ,18,Two year,25.3,No,No internet service,No internet service,0.7643128822045451
+3675-YDUPJ,10,Month-to-month,19.85,No,No internet service,No internet service,0.7643024400482017
+9239-ZBZZV,6,Month-to-month,47.95,DSL,No,No,0.7642546041030022
+2359-KLTEK,41,Month-to-month,94.9,Fiber optic,No,No,0.7638899225746667
+6112-KTHFQ,13,Month-to-month,19.3,No,No internet service,No internet service,0.7635537338106121
+3162-ZJZFU,53,Month-to-month,92.55,Fiber optic,No,Yes,0.7633762187627817
+9139-WQQDY,49,One year,100.45,Fiber optic,No,No,0.7633462613343923
+6257-DTAYD,71,Two year,104.15,Fiber optic,No,Yes,0.7633166128023192
+8945-GRKHX,1,Month-to-month,78.65,Fiber optic,No,No,0.7632046300967948
+1574-DYCWE,51,Two year,19.95,No,No internet service,No internet service,0.7627473540482302
+8040-MNRTF,1,Month-to-month,71.1,Fiber optic,No,No,0.7626897316139098
+5215-LNLDJ,7,Month-to-month,24.7,DSL,No,No,0.7625339371031988
+7943-RQCHR,9,Month-to-month,94.75,Fiber optic,No,No,0.76219473828782
+5849-ASHZJ,27,One year,20.05,No,No internet service,No internet service,0.7619637493888628
+6458-CYIDZ,5,Month-to-month,80.7,Fiber optic,Yes,No,0.7617358145792129
+3761-FLYZI,65,Month-to-month,108.8,Fiber optic,No,No,0.7617068871352931
+6572-ADKRS,46,Month-to-month,74.8,Fiber optic,No,No,0.7616931430674783
+6979-ZNSFF,8,Month-to-month,87.05,Fiber optic,No,No,0.7616581065298453
+9696-RMYBA,5,Month-to-month,80.1,Fiber optic,No,No,0.761504289298943
+4742-TXUEX,47,Two year,19.3,No,No internet service,No internet service,0.7614622855148501
+9426-SXNHE,2,Month-to-month,18.75,No,No internet service,No internet service,0.761375708626409
+1376-HHBDV,30,Month-to-month,48.8,DSL,Yes,No,0.7612627955111533
+3234-VKACU,2,Month-to-month,70.3,DSL,No,Yes,0.761086848358591
+9073-ZZIAY,62,Two year,86.1,DSL,Yes,Yes,0.7610260297294696
+0362-RAOQO,40,Two year,19.65,No,No internet service,No internet service,0.7610260297294696
+0431-APWVY,28,One year,90.1,Fiber optic,No,No,0.7609550309716204
+9115-YQHGA,40,Month-to-month,51.1,DSL,No,Yes,0.7606972289967152
+5261-QSHQM,4,Month-to-month,24.45,DSL,No,No,0.7606219423959932
+4648-YPBTM,53,Two year,73.9,DSL,No,Yes,0.7602947309838862
+7100-FQPRV,43,One year,71.9,DSL,Yes,Yes,0.760201508936298
+8067-NIOYM,24,Two year,21.1,No,No internet service,No internet service,0.7601099520776051
+6892-EZDTG,4,Month-to-month,91.65,Fiber optic,No,No,0.7600687546972483
+1215-EXRMO,50,Two year,20.55,No,No internet service,No internet service,0.7599430426963962
+7608-RGIRO,62,Two year,24.4,No,No internet service,No internet service,0.7599336603798514
+5651-CPDND,10,Month-to-month,46.0,DSL,No,No,0.7598934518226602
+4750-ZRXIU,4,Month-to-month,84.6,Fiber optic,No,No,0.7596927044162609
+3704-IEAXF,72,Two year,53.65,DSL,No,Yes,0.7595709419646908
+5465-BUBFA,41,Two year,19.3,No,No internet service,No internet service,0.7595709419646908
+9909-DFRJA,26,One year,95.85,Fiber optic,Yes,Yes,0.7595709419646908
+4832-VRBMR,65,One year,103.15,Fiber optic,No,No,0.7595709419646908
+4250-FDVOU,6,Month-to-month,56.25,DSL,Yes,No,0.7595684978669022
+8663-UPDGF,26,Month-to-month,69.5,DSL,Yes,No,0.759433470229277
+2195-VVRJF,18,Month-to-month,59.1,DSL,Yes,No,0.7593992618321118
+4580-TMHJU,43,Month-to-month,56.15,DSL,No,No,0.7593011815517741
+8421-WZOOW,57,Month-to-month,95.3,Fiber optic,No,Yes,0.7587103748621815
+9067-YGSCA,70,One year,26.05,No,No internet service,No internet service,0.7585834525663351
+9817-APLHW,12,Month-to-month,25.0,No,No internet service,No internet service,0.7583105902394844
+6507-ZJSUR,23,Month-to-month,90.45,Fiber optic,No,No,0.758166675089845
+5356-RHIPP,1,Month-to-month,20.2,No,No internet service,No internet service,0.7578557490983089
+6285-FTQBF,72,Two year,25.55,No,No internet service,No internet service,0.7578485511196607
+0486-LGCCH,11,Two year,19.65,No,No internet service,No internet service,0.7578485511196607
+5533-NHFRF,7,Month-to-month,44.4,DSL,No,Yes,0.7576212457172373
+4868-AADLV,66,One year,116.25,Fiber optic,Yes,Yes,0.7575013760357592
+8348-HFYIV,2,Month-to-month,49.25,DSL,No,No,0.7571970218275591
+3785-KTYSH,53,Two year,24.6,No,No internet service,No internet service,0.7571346863476589
+7515-LODFU,69,Two year,20.3,No,No internet service,No internet service,0.7571043190543683
+0516-VRYBW,18,One year,20.15,No,No internet service,No internet service,0.7570955805754828
+7764-BDPEE,3,Month-to-month,20.85,No,No internet service,No internet service,0.757085306261412
+3446-QDSZF,4,Month-to-month,55.5,DSL,No,No,0.7570263736697862
+9931-KGHOA,46,Month-to-month,55.0,DSL,Yes,No,0.7569635933120469
+3259-FDWOY,71,Two year,106.0,Fiber optic,No,No,0.7565961654095718
+0356-OBMAC,56,Two year,99.9,Fiber optic,No,Yes,0.756474835315261
+8543-MSDMF,3,Month-to-month,77.4,DSL,Yes,No,0.7561642162906744
+5655-JSMZM,49,Month-to-month,96.2,Fiber optic,No,No,0.756077103352617
+7892-QVYKW,23,Month-to-month,85.6,Fiber optic,No,No,0.7560074757008125
+4056-QHXHZ,72,Two year,107.45,Fiber optic,Yes,Yes,0.7556955603930774
+8292-ITGYJ,45,Two year,24.65,No,No internet service,No internet service,0.7552451531704222
+8945-MUQUF,51,One year,94.8,Fiber optic,Yes,No,0.7552329580086612
+2087-QAREY,22,Month-to-month,54.7,DSL,No,No,0.7551982825963954
+5089-IFSDP,58,Two year,109.45,Fiber optic,Yes,No,0.7551649360600785
+8286-AFUYI,1,Month-to-month,47.95,DSL,Yes,No,0.7551328519630807
+5012-YSPJJ,31,Month-to-month,54.35,DSL,No,Yes,0.7546933200224595
+4134-BSXLX,28,Month-to-month,60.9,DSL,Yes,Yes,0.7546855821779955
+4471-KXAUH,42,Month-to-month,84.3,Fiber optic,No,Yes,0.7543924701962816
+3538-WZPHD,3,Month-to-month,29.6,DSL,No,No,0.7543831304604788
+4759-TRPLW,1,Month-to-month,70.4,Fiber optic,No,No,0.7543635733392116
+4366-CTOUZ,50,Two year,100.2,Fiber optic,No,Yes,0.7543485277320683
+6712-OAWRH,26,Month-to-month,91.25,Fiber optic,No,No,0.7541962089238053
+7673-BQGKU,69,Two year,20.15,No,No internet service,No internet service,0.7541612838317944
+9950-MTGYX,28,Two year,20.3,No,No internet service,No internet service,0.7541612838317944
+9591-YVTEB,55,Month-to-month,44.85,DSL,Yes,No,0.754053338776949
+1074-WVEVG,59,One year,20.35,No,No internet service,No internet service,0.7538886227782767
+1685-BQULA,40,Month-to-month,93.4,Fiber optic,No,No,0.7537333972618062
+5325-UWTWJ,31,Month-to-month,90.55,Fiber optic,Yes,Yes,0.7536329876613221
+6621-NRZAK,63,Two year,20.0,No,No internet service,No internet service,0.7528018702974911
+7853-OETYL,4,Month-to-month,29.05,DSL,Yes,No,0.7523744292435918
+6655-LHBYW,50,One year,114.35,Fiber optic,Yes,Yes,0.7523744292435918
+2360-RDGRO,65,Month-to-month,104.25,Fiber optic,Yes,No,0.7522920552205938
+6986-IXNDM,14,Month-to-month,92.9,Fiber optic,No,No,0.7521646223729579
+6885-PKOAM,71,Two year,85.75,DSL,Yes,Yes,0.7521646223729579
+2868-SNELZ,2,Month-to-month,80.6,Fiber optic,No,No,0.7519439581716664
+4884-ZTHVF,8,Month-to-month,87.1,Fiber optic,No,No,0.7517785957899592
+4332-MUOEZ,20,One year,94.3,Fiber optic,Yes,Yes,0.7517229323115974
+0107-WESLM,1,Month-to-month,19.85,No,No internet service,No internet service,0.7516308496766719
+9831-BPFRI,39,One year,89.55,Fiber optic,No,Yes,0.75135394612954
+5712-VBOXD,4,Month-to-month,20.15,No,No internet service,No internet service,0.7511883947563948
+5445-GLVOT,22,Month-to-month,49.8,DSL,Yes,No,0.7506763345611364
+9850-OWRHQ,3,Month-to-month,74.1,Fiber optic,No,No,0.7504001317129192
+5590-BYNII,22,Month-to-month,100.75,Fiber optic,Yes,No,0.7502073224233615
+7869-ZYDST,31,Month-to-month,59.05,DSL,No,No,0.7501250702703236
+2017-CCBLH,8,Two year,20.0,No,No internet service,No internet service,0.749965262554009
+2911-UREFD,39,Month-to-month,55.9,DSL,Yes,No,0.749773558936883
+9391-DXGGG,44,One year,89.15,Fiber optic,No,No,0.7496981667400959
+3178-FESZO,1,Month-to-month,100.25,Fiber optic,No,No,0.7495611362323794
+5248-YGIJN,72,Two year,90.25,DSL,Yes,Yes,0.7494862886723129
+0582-AVCLN,38,Two year,20.3,No,No internet service,No internet service,0.7493110632499171
+6300-BWMJX,59,Month-to-month,93.35,Fiber optic,No,Yes,0.7492648671274383
+8241-JUIQO,61,One year,19.45,No,No internet service,No internet service,0.7491423311354174
+4315-MURBD,12,Month-to-month,98.9,Fiber optic,Yes,Yes,0.7491401981810989
+7552-KEYGT,27,Two year,19.55,No,No internet service,No internet service,0.7485253112763408
+8603-IJWDN,1,Month-to-month,86.6,Fiber optic,No,No,0.7481159678959172
+8079-XRJRS,65,One year,89.75,Fiber optic,Yes,No,0.7481076929402576
+2656-FMOKZ,15,Month-to-month,74.45,Fiber optic,No,No,0.7479481371852049
+2867-UIMSS,1,Month-to-month,80.5,Fiber optic,No,No,0.7479351350449258
+1170-SASML,69,Month-to-month,85.4,Fiber optic,No,No,0.7475574951440975
+0643-OKLRP,47,Month-to-month,80.35,Fiber optic,Yes,No,0.7465797672965294
+3739-YBWAB,36,One year,35.35,DSL,Yes,No,0.7465586260058366
+4822-RVYBB,8,Month-to-month,100.6,Fiber optic,No,No,0.7465554755842667
+5519-YLDGW,21,Month-to-month,103.9,Fiber optic,Yes,No,0.746328617070963
+9522-ZSINC,13,One year,19.95,No,No internet service,No internet service,0.7461706382011036
+6741-QRLUP,63,Two year,80.3,DSL,Yes,Yes,0.7458857792217646
+2272-QAGFO,14,Month-to-month,74.3,Fiber optic,No,No,0.7457678268039778
+3606-SBKRY,31,One year,50.05,DSL,No,No,0.745720191118099
+9896-UYMIE,66,One year,114.3,Fiber optic,Yes,Yes,0.7455495075184427
+0853-TWRVK,72,Two year,105.6,Fiber optic,Yes,Yes,0.7452129295569864
+3452-FLHYD,25,One year,20.95,No,No internet service,No internet service,0.7451417676038409
+7153-OANIO,1,Month-to-month,69.95,Fiber optic,No,No,0.745116628563735
+8805-JNRAZ,2,Month-to-month,49.2,DSL,No,No,0.7448255084520008
+5627-TVBPP,35,One year,20.1,No,No internet service,No internet service,0.7446983842737527
+1951-IEYXM,72,Two year,90.6,DSL,Yes,Yes,0.7445769595820059
+6736-DHUQI,67,One year,84.8,Fiber optic,Yes,No,0.744358666732984
+1777-JYQPJ,2,Month-to-month,24.3,DSL,No,No,0.7442173931975851
+1428-IEDPR,52,Two year,109.3,Fiber optic,Yes,Yes,0.7441068018942418
+5442-BXVND,33,Month-to-month,24.25,No,No internet service,No internet service,0.743878369342428
+1187-WILMM,63,Two year,89.4,DSL,Yes,Yes,0.7438340429766707
+6166-YIPFO,72,Two year,64.7,DSL,Yes,Yes,0.7438012912029205
+7993-NQLJE,15,Month-to-month,75.1,Fiber optic,Yes,No,0.7437103074293929
+4432-ADRLB,2,Month-to-month,44.65,DSL,No,No,0.743273679785456
+3956-MGXOG,28,Month-to-month,80.6,Fiber optic,No,No,0.7428768060072468
+2067-QYTCF,64,Month-to-month,111.15,Fiber optic,No,Yes,0.7427024133977266
+3209-ZPKFI,47,Month-to-month,54.25,DSL,No,No,0.7426422651968386
+6094-ZIVKX,68,One year,54.45,DSL,Yes,No,0.7419804419752134
+8739-XNIKG,5,Month-to-month,84.0,Fiber optic,No,No,0.7417452385973262
+9420-LOJKX,15,Month-to-month,99.1,Fiber optic,Yes,No,0.7416713360594261
+0684-AOSIH,1,Month-to-month,95.0,Fiber optic,Yes,No,0.7416315442737776
+5364-EVNIB,13,Month-to-month,79.8,Fiber optic,No,No,0.7415306922279171
+8869-LIHMK,64,Two year,115.1,Fiber optic,Yes,Yes,0.7415306922279171
+1761-AEZZR,1,Month-to-month,79.55,Fiber optic,No,No,0.7415306922279171
+3402-XRIUO,22,Month-to-month,63.55,DSL,Yes,Yes,0.7411762764343334
+7684-XSZIY,72,Two year,24.3,No,No internet service,No internet service,0.7410059164947586
+8547-NSBBO,35,Month-to-month,96.75,Fiber optic,Yes,Yes,0.7409788280189976
+6473-ULUHT,16,Month-to-month,84.9,DSL,Yes,Yes,0.7408687849493099
+2424-WVHPL,1,Month-to-month,74.7,Fiber optic,No,Yes,0.7405086966511845
+9378-FXTIZ,54,One year,70.15,DSL,No,No,0.7404573876701285
+3486-HOOGQ,70,Two year,79.7,DSL,Yes,Yes,0.7401976006329386
+2649-HWLYB,65,Two year,76.15,DSL,Yes,Yes,0.7399644067823988
+9924-JPRMC,72,Two year,118.2,Fiber optic,Yes,Yes,0.7396454948754143
+5884-FBCTL,72,Two year,25.1,No,No internet service,No internet service,0.7396237078748574
+5678-VFNEQ,71,One year,104.1,Fiber optic,Yes,No,0.7396227931442759
+9747-DDZOS,1,Month-to-month,73.5,Fiber optic,No,No,0.7393523023501148
+8481-YYXWG,5,Month-to-month,89.35,Fiber optic,No,Yes,0.7391505600319275
+0112-QAWRZ,16,Month-to-month,90.8,Fiber optic,No,No,0.7388177046768738
+2696-NARTR,11,Month-to-month,73.85,Fiber optic,No,Yes,0.7387925771082251
+4957-SREEC,70,Two year,20.35,No,No internet service,No internet service,0.7387631868033572
+1958-RNRKS,30,Month-to-month,49.9,DSL,No,No,0.7387631868033572
+5651-YLPRD,32,Month-to-month,86.1,Fiber optic,No,No,0.7387631868033572
+0956-SYCWG,13,One year,19.65,No,No internet service,No internet service,0.7387631868033572
+4929-ROART,18,Month-to-month,56.25,DSL,Yes,No,0.7387631868033572
+7341-LXCAF,4,Month-to-month,74.65,Fiber optic,No,No,0.7387631868033572
+5774-XZTQC,7,Month-to-month,20.45,No,No internet service,No internet service,0.7387631868033572
+5766-ZJYBB,1,Month-to-month,19.4,No,No internet service,No internet service,0.7387631868033572
+8155-IBNHG,24,Month-to-month,75.4,Fiber optic,No,No,0.7386651730639647
+3070-BDOQC,60,Two year,99.65,Fiber optic,No,No,0.7386442092425751
+2720-WGKHP,2,Month-to-month,94.0,Fiber optic,No,No,0.7384812737245805
+2428-ZMCTB,10,Month-to-month,19.75,No,No internet service,No internet service,0.7383960286639553
+4971-PUYQO,27,Month-to-month,94.55,Fiber optic,No,No,0.7383482995350833
+7880-XSOJX,4,Month-to-month,42.4,DSL,Yes,Yes,0.7383482995350833
+4323-OHFOW,70,One year,105.55,Fiber optic,No,Yes,0.7383456612379
+6050-IJRHS,70,One year,106.5,Fiber optic,No,No,0.7381817089171566
+1455-HFBXA,52,Two year,91.6,Fiber optic,Yes,Yes,0.738124686057471
+5310-NOOVA,46,Two year,19.95,No,No internet service,No internet service,0.738011242229446
+0253-ZTEOB,48,Two year,79.65,DSL,No,Yes,0.73776483520219
+2108-YKQTY,4,Month-to-month,50.7,DSL,No,No,0.737675011735009
+9531-NSBMR,36,One year,19.25,No,No internet service,No internet service,0.7376351102418507
+2347-WKKAE,42,Month-to-month,94.4,Fiber optic,Yes,No,0.7375052949148526
+4713-LZDRV,2,Month-to-month,79.6,Fiber optic,No,No,0.7374660537641301
+2810-FTLEM,16,Month-to-month,50.15,DSL,Yes,No,0.7373076434646851
+2049-BAFNW,1,Month-to-month,35.9,DSL,No,Yes,0.7372328701149533
+1166-PQLGG,72,Two year,19.55,No,No internet service,No internet service,0.737151256416506
+7932-WPTDS,1,Month-to-month,24.8,DSL,No,No,0.7369075171116652
+5442-PPTJY,12,Two year,19.7,No,No internet service,No internet service,0.7366399503806608
+9227-YBAXE,65,Two year,82.5,DSL,Yes,Yes,0.7363544713537898
+8205-OTCHB,22,One year,43.75,DSL,No,No,0.7363013690885587
+4816-LXZYW,23,Month-to-month,79.15,Fiber optic,No,No,0.7362565705144857
+3096-IZETN,12,Month-to-month,78.1,Fiber optic,No,No,0.7360981600279094
+2672-DZUOY,1,Month-to-month,25.15,DSL,No,No,0.7358924902053093
+7854-EDSSA,22,Month-to-month,59.0,DSL,Yes,No,0.7357857747012717
+6416-TVAIH,1,Month-to-month,68.5,Fiber optic,No,No,0.7354805887890409
+5651-CRHKQ,41,One year,86.2,Fiber optic,No,Yes,0.7353908408499857
+4628-WQCQQ,35,One year,85.15,Fiber optic,No,No,0.735087212799622
+3500-RMZLT,15,Month-to-month,96.3,Fiber optic,Yes,Yes,0.73499732977763
+7124-UGSUR,61,One year,104.4,Fiber optic,No,No,0.73499732977763
+5577-OTWWW,15,Month-to-month,19.75,No,No internet service,No internet service,0.73499732977763
+6922-NCEDI,56,One year,21.2,No,No internet service,No internet service,0.73499732977763
+6124-ACRHJ,1,Month-to-month,19.75,No,No internet service,No internet service,0.73499732977763
+6386-SZZKH,49,Two year,107.95,Fiber optic,No,Yes,0.7349671495311569
+9667-TKTVZ,2,Month-to-month,54.35,DSL,No,Yes,0.734964000088659
+5949-XIKAE,8,Month-to-month,83.55,Fiber optic,No,No,0.734804232019732
+0533-UCAAU,57,One year,71.1,DSL,No,No,0.7347731169772945
+8950-MTZNV,1,Month-to-month,44.95,DSL,No,No,0.7346855152629027
+6719-FGEDO,72,Two year,97.0,Fiber optic,Yes,Yes,0.7346302452036242
+2450-ZKEED,11,One year,53.8,DSL,No,Yes,0.7346143919786243
+4760-THGOT,43,Month-to-month,94.1,Fiber optic,Yes,No,0.7342194589619
+4403-BWPAY,14,One year,24.8,No,No internet service,No internet service,0.7339130430051164
+1670-SVOWZ,14,Month-to-month,89.65,Fiber optic,No,Yes,0.7337715672791131
+6574-MCOEH,33,One year,79.15,DSL,No,Yes,0.7337472758076717
+9917-KWRBE,41,One year,78.35,DSL,Yes,No,0.7336618804008596
+6595-YGXIT,25,Month-to-month,88.95,Fiber optic,No,No,0.7334870960650542
+8930-XOTDP,18,Month-to-month,55.95,DSL,No,No,0.7334870960650542
+6630-UJZMY,4,Month-to-month,83.25,Fiber optic,No,No,0.7333388042593224
+8439-LTUGF,10,Month-to-month,20.0,No,No internet service,No internet service,0.7327855039190675
+8400-WZICQ,55,Month-to-month,55.7,DSL,Yes,No,0.7327836010460335
+7993-PYKOF,8,Month-to-month,75.0,Fiber optic,Yes,No,0.7326958242403069
+1763-WQFUK,3,Month-to-month,50.5,DSL,No,Yes,0.7325500620877571
+4892-VLANZ,1,Month-to-month,19.8,No,No internet service,No internet service,0.7324791333211729
+3719-TDVQB,54,Two year,18.95,No,No internet service,No internet service,0.7324407787137517
+5317-FLPJF,66,Two year,61.35,DSL,Yes,Yes,0.7323173904424263
+6857-VWJDT,1,Month-to-month,95.65,Fiber optic,No,No,0.7320576397409728
+0115-TFERT,21,Month-to-month,111.2,Fiber optic,No,Yes,0.7319577413459002
+6115-ZTBFQ,72,Two year,65.5,DSL,Yes,Yes,0.7318523825205099
+0259-GBZSH,2,Month-to-month,85.65,Fiber optic,No,No,0.731749409443206
+7841-FCRQD,33,One year,53.75,DSL,No,Yes,0.7316033770065816
+4719-UMSIY,6,Month-to-month,19.65,No,No internet service,No internet service,0.7315593696891242
+0621-TWIEM,10,Month-to-month,45.55,DSL,No,No,0.7313778602428849
+7359-PTSXY,1,Month-to-month,45.75,DSL,No,No,0.7312971820934951
+8755-IWJHN,69,Month-to-month,95.35,Fiber optic,No,No,0.7311869196520371
+2398-YPMUR,13,Month-to-month,70.15,Fiber optic,No,No,0.7311436020218567
+7670-ZBPOQ,58,One year,61.05,DSL,Yes,Yes,0.7311436020218567
+3099-OONVS,25,Month-to-month,54.3,DSL,Yes,Yes,0.7310618043441576
+4883-KCPZJ,22,Two year,25.25,No,No internet service,No internet service,0.7306568102608649
+9730-DRTMJ,32,One year,72.8,DSL,Yes,Yes,0.7306020752171178
+7601-DHFWZ,48,Two year,24.0,No,No internet service,No internet service,0.7304482969896711
+7563-BIUPC,5,Month-to-month,80.6,Fiber optic,No,No,0.7304221750275168
+1335-HQMKX,72,One year,101.35,Fiber optic,No,No,0.7303311717936838
+8628-MFKAX,72,Two year,116.75,Fiber optic,Yes,Yes,0.7302424317454901
+5220-AGAAX,68,Two year,24.0,No,No internet service,No internet service,0.7299273474701036
+5993-JSUWV,66,Two year,61.15,DSL,Yes,No,0.7298333544774209
+5458-CQJTA,65,Two year,74.8,DSL,Yes,Yes,0.7295688205315883
+9715-SBVSU,14,Two year,61.4,DSL,Yes,No,0.7295235274769273
+5600-PDUJF,6,Month-to-month,49.5,DSL,No,Yes,0.7294833890429053
+7576-JMYWV,46,Month-to-month,110.2,Fiber optic,Yes,Yes,0.7294184217666755
+3779-OSWCF,71,Two year,93.2,DSL,Yes,Yes,0.7292741753435363
+2274-XUATA,72,Two year,63.1,DSL,Yes,Yes,0.7291277363839217
+0628-CNQRM,22,One year,67.5,DSL,Yes,Yes,0.7291250915866913
+4827-LTQRJ,66,One year,110.6,Fiber optic,Yes,Yes,0.7291250915866913
+4826-XTSOH,1,Month-to-month,86.05,Fiber optic,No,No,0.7291250915866913
+3223-DWFIO,4,Month-to-month,69.35,Fiber optic,No,No,0.7289638044837135
+6786-OBWQR,5,Month-to-month,80.85,Fiber optic,No,No,0.7287699649017201
+5514-YQENT,41,Two year,111.15,Fiber optic,Yes,Yes,0.7283466478045243
+5129-JLPIS,25,Month-to-month,105.5,Fiber optic,Yes,Yes,0.728068365339242
+3452-SRFEG,49,Month-to-month,74.6,Fiber optic,No,No,0.7280158612038562
+2856-HYAPG,1,Month-to-month,68.65,Fiber optic,No,No,0.7279794120183868
+6867-ACCZI,24,Two year,52.5,DSL,Yes,Yes,0.7276895683990405
+6064-ZATLR,27,Two year,52.85,DSL,Yes,No,0.7275062314510623
+8073-IJDCM,1,Month-to-month,20.3,No,No internet service,No internet service,0.7274053460716351
+2746-DIJLO,41,One year,56.3,DSL,No,No,0.7274006007646525
+6311-UEUME,29,Month-to-month,78.9,Fiber optic,No,No,0.7273705448410023
+0929-HYQEW,3,Month-to-month,50.15,DSL,Yes,No,0.7273148453427115
+9617-UDPEU,22,One year,19.25,No,No internet service,No internet service,0.7273056312816041
+8849-AYPTR,33,Month-to-month,91.25,Fiber optic,No,No,0.726963286127465
+1697-LYYYX,61,One year,19.1,No,No internet service,No internet service,0.7268228012813073
+6769-DYBQN,46,Month-to-month,85.0,Fiber optic,Yes,No,0.7267319038082504
+8696-JKZNU,37,Month-to-month,76.25,Fiber optic,No,No,0.7265211945903467
+2792-VPPET,3,Month-to-month,20.5,No,No internet service,No internet service,0.7264434519682095
+1506-YJTYT,45,Two year,73.85,DSL,Yes,Yes,0.7264368613359612
+0060-FUALY,59,Month-to-month,94.75,Fiber optic,Yes,No,0.7264315029197773
+2542-HYGIQ,1,Month-to-month,19.95,No,No internet service,No internet service,0.7262213513932327
+9140-CZQZZ,68,Two year,79.6,DSL,Yes,Yes,0.7261791382644202
+3724-UCSHY,6,Month-to-month,19.55,No,No internet service,No internet service,0.7257551962693917
+6859-QNXIQ,72,Two year,113.1,Fiber optic,Yes,Yes,0.7256653570323859
+5442-BHQNG,2,Month-to-month,70.35,Fiber optic,No,No,0.7256639441233738
+7654-YWJUF,43,One year,84.25,Fiber optic,Yes,Yes,0.7255155970461428
+4013-UBXWQ,7,Month-to-month,74.65,DSL,No,Yes,0.7255076443982434
+1439-LCGVL,26,One year,19.2,No,No internet service,No internet service,0.7255076443982434
+6518-KZXCB,22,Two year,25.25,No,No internet service,No internet service,0.7255015733411453
+0547-HURJB,12,Month-to-month,21.05,No,No internet service,No internet service,0.7254526078621807
+4647-MUZON,18,Month-to-month,95.95,Fiber optic,No,No,0.7253489580353022
+5569-IDSEY,71,One year,105.7,Fiber optic,No,No,0.7249035598502516
+2930-UOTMB,31,Month-to-month,65.25,DSL,Yes,Yes,0.7248059762258418
+8034-RYTVV,55,One year,84.25,Fiber optic,Yes,No,0.7247129482552691
+3090-LETTY,2,Month-to-month,60.95,DSL,Yes,No,0.7245510598561831
+7041-TXQJH,37,Month-to-month,40.2,DSL,No,No,0.7245207083054679
+4094-NSEDU,21,Month-to-month,94.25,Fiber optic,No,No,0.72426209126914
+4130-MZLCC,5,Month-to-month,50.55,DSL,No,No,0.7241595150952582
+8577-QSOCG,38,Two year,20.2,No,No internet service,No internet service,0.7240315810757272
+1730-ZMAME,32,Month-to-month,79.5,Fiber optic,No,No,0.7239322329274974
+7083-YNSKY,15,Month-to-month,25.4,No,No internet service,No internet service,0.7238537232776256
+9746-UGFAC,22,One year,20.85,No,No internet service,No internet service,0.7237118842222912
+4503-BDXBD,11,Month-to-month,74.95,Fiber optic,No,No,0.7232941919973733
+8969-PRHFK,18,One year,19.65,No,No internet service,No internet service,0.722987980340778
+5196-SGOAK,1,Month-to-month,75.7,Fiber optic,No,No,0.7229302175788261
+2615-YVMYX,71,Month-to-month,107.5,Fiber optic,Yes,No,0.7227624230774903
+0479-HMSWA,26,Two year,105.45,Fiber optic,No,Yes,0.7226518451108532
+5473-KHBPS,52,One year,95.7,Fiber optic,No,No,0.7223895302922965
+5542-DHSXL,4,Month-to-month,54.7,DSL,Yes,No,0.7222027198035367
+5724-BIDBU,49,One year,55.35,DSL,Yes,No,0.7221483270250733
+9237-HQITU,2,Month-to-month,70.7,Fiber optic,No,No,0.7221267380671478
+2267-FPIMA,50,Month-to-month,94.4,Fiber optic,Yes,No,0.7220493695199793
+9351-HXDMR,72,Two year,110.9,Fiber optic,Yes,Yes,0.7219826039009799
+8626-XHBIE,56,Two year,24.8,No,No internet service,No internet service,0.7212666433629593
+8903-WMRNW,15,Month-to-month,101.75,Fiber optic,Yes,No,0.7211491834658581
+8630-FJLIB,18,Month-to-month,69.8,Fiber optic,No,No,0.7210994334166684
+1194-HVAIF,27,Month-to-month,95.0,Fiber optic,No,No,0.7210900192079452
+7665-NKLAV,36,Two year,40.65,DSL,Yes,Yes,0.7210779513464487
+8328-SKJNO,23,One year,40.65,DSL,Yes,Yes,0.7209832777985536
+2621-UDNLU,3,Month-to-month,20.85,No,No internet service,No internet service,0.7209279093608941
+4878-BUNFV,42,Two year,20.7,No,No internet service,No internet service,0.7209194529547612
+6469-MRVET,1,One year,20.2,No,No internet service,No internet service,0.7205161900549296
+9396-ZSFLL,15,Month-to-month,48.85,DSL,No,No,0.7202517481306329
+2150-OEGBV,27,One year,20.1,No,No internet service,No internet service,0.7196780430270511
+4472-LVYGI,0,Two year,52.55,DSL,Yes,Yes,0.7195797314497024
+2995-UPRYS,40,One year,99.2,Fiber optic,No,Yes,0.7195480120414224
+6734-FQAJX,67,Two year,105.05,Fiber optic,Yes,Yes,0.71949747859782
+8166-ZZTFS,66,Two year,80.55,DSL,No,No,0.7194061573768379
+2700-LUEVA,1,Month-to-month,20.75,No,No internet service,No internet service,0.7193236311216011
+5698-BQJOH,9,Month-to-month,94.4,Fiber optic,No,No,0.7192383953946959
+0103-CSITQ,57,One year,109.4,Fiber optic,No,Yes,0.7189427602242451
+6029-WTIPC,37,Month-to-month,101.1,Fiber optic,No,No,0.7188498980055031
+8041-TMEID,63,Two year,108.5,Fiber optic,Yes,No,0.718825666694066
+3557-HTYWR,47,Two year,74.05,DSL,Yes,Yes,0.7187480787163624
+4163-NCJAK,46,One year,24.45,No,No internet service,No internet service,0.7186088861783274
+8108-UXRQN,11,Month-to-month,50.55,DSL,Yes,No,0.7183962248820506
+2012-NWRPA,11,Month-to-month,99.55,Fiber optic,No,No,0.7183374479014801
+2160-GPFXD,54,Two year,65.65,DSL,Yes,Yes,0.7182614495925432
+9571-EDEBV,71,One year,98.65,Fiber optic,No,No,0.718114407402011
+9402-CXWPL,70,One year,98.9,Fiber optic,No,No,0.7180858881786734
+1373-ORVIZ,11,Month-to-month,66.35,DSL,No,Yes,0.7178293110881482
+3445-HXXGF,58,Month-to-month,45.3,DSL,No,No,0.7178199971992179
+4633-MKHYU,9,Month-to-month,88.4,Fiber optic,No,No,0.7176800522513327
+5183-KLYEM,72,Two year,112.75,Fiber optic,Yes,Yes,0.7176800522513327
+4806-DXQCE,70,Two year,113.65,Fiber optic,Yes,Yes,0.7176774131374257
+1596-BBVTG,35,Month-to-month,75.35,Fiber optic,No,No,0.7174807822068608
+1421-HCERK,30,Month-to-month,105.7,Fiber optic,Yes,Yes,0.7173851472395789
+0141-YEAYS,27,Month-to-month,86.45,Fiber optic,No,No,0.7173792817286868
+6769-DCQLI,52,One year,105.0,Fiber optic,No,Yes,0.7171818421087279
+7639-LIAYI,52,Two year,79.75,DSL,Yes,Yes,0.7170752067329808
+0564-MUUQK,20,Month-to-month,95.5,Fiber optic,No,Yes,0.7170545867509678
+5734-EJKXG,61,One year,118.6,Fiber optic,Yes,Yes,0.7167365055121588
+6284-AHOOQ,22,Month-to-month,90.5,Fiber optic,No,Yes,0.7164375690127095
+5908-QMGOE,15,Month-to-month,74.2,Fiber optic,No,No,0.7162437606683555
+7564-GHCVB,72,Two year,79.05,Fiber optic,Yes,No,0.7157316215720929
+8761-NSOBC,44,Month-to-month,100.55,Fiber optic,No,Yes,0.7152158808815252
+2446-BEGGB,6,Month-to-month,98.25,Fiber optic,No,No,0.7151589294646652
+3653-NCRDJ,43,One year,19.2,No,No internet service,No internet service,0.714999317099464
+3572-UUHRS,45,One year,18.85,No,No internet service,No internet service,0.714942412242626
+6532-YLWSI,53,One year,20.8,No,No internet service,No internet service,0.7147720114591771
+0657-DOGUM,48,One year,60.6,DSL,Yes,Yes,0.7147543937018561
+4486-EFAEB,13,Month-to-month,20.4,No,No internet service,No internet service,0.7140911914648281
+4194-WHFCB,59,Month-to-month,96.65,Fiber optic,No,Yes,0.7138389236133557
+9661-MHUMO,1,Month-to-month,49.25,DSL,No,Yes,0.7138389236133557
+2811-POVEX,23,Month-to-month,88.45,Fiber optic,No,No,0.7138389236133557
+7820-ZYGNY,63,One year,90.45,Fiber optic,No,No,0.7137952759958742
+1991-VOPLL,9,Month-to-month,19.05,No,No internet service,No internet service,0.7137914763557047
+6633-MPWBS,5,Month-to-month,49.2,DSL,No,Yes,0.7137582905693924
+1624-NALOJ,5,Month-to-month,89.8,Fiber optic,No,No,0.7137136848921272
+4487-ZYJZK,38,One year,19.6,No,No internet service,No internet service,0.7136973080395254
+6198-PNNSZ,56,One year,109.8,Fiber optic,Yes,No,0.7135658834574502
+2387-KDZQY,17,One year,20.1,No,No internet service,No internet service,0.7135355911808476
+1568-LJSZU,68,Two year,92.2,DSL,Yes,Yes,0.7135211751831413
+8132-YPVBX,6,Month-to-month,85.95,Fiber optic,No,No,0.7133201287387488
+2070-FNEXE,7,Month-to-month,76.45,Fiber optic,Yes,No,0.7133128699544939
+1320-GVNHT,72,Two year,108.4,Fiber optic,Yes,No,0.7130724384929645
+9801-GDWGV,39,Month-to-month,103.45,Fiber optic,No,No,0.7126125960229172
+9500-IWPXQ,61,One year,79.4,DSL,Yes,Yes,0.7125260859725848
+9820-RMCQV,11,Month-to-month,48.55,DSL,Yes,No,0.7125140664061534
+5915-ANOEI,70,Two year,79.15,DSL,Yes,Yes,0.7124875979921259
+4396-KLSEH,4,Month-to-month,19.85,No,No internet service,No internet service,0.7123973691321365
+2296-DKZFP,65,Two year,71.0,DSL,Yes,No,0.7120614954204275
+6217-KDYWC,57,Two year,19.6,No,No internet service,No internet service,0.7120258388387879
+2576-HXMPA,1,Month-to-month,19.55,No,No internet service,No internet service,0.7118512014610071
+3750-RNQKR,12,Month-to-month,19.45,No,No internet service,No internet service,0.7118353098879322
+5480-XTFFL,31,Two year,21.0,No,No internet service,No internet service,0.7117490647436872
+5756-JYOJT,11,One year,64.9,DSL,No,Yes,0.7116859137196282
+0595-ITUDF,64,Month-to-month,91.8,Fiber optic,Yes,No,0.7116299605913461
+5832-TRLPB,29,One year,75.35,DSL,No,Yes,0.7115317284801103
+4779-ZGICK,48,Two year,23.55,No,No internet service,No internet service,0.7114799336169372
+5429-LWCMV,12,Month-to-month,89.15,Fiber optic,No,No,0.7114385198159884
+1716-LSAMB,45,Two year,54.65,DSL,Yes,Yes,0.7113375918309457
+6664-FPDAC,56,One year,111.95,Fiber optic,No,Yes,0.7111754245572396
+7812-FZHPE,17,Month-to-month,24.1,No,No internet service,No internet service,0.7110773905624425
+5124-EOGYE,31,Two year,20.45,No,No internet service,No internet service,0.7109010168661153
+5119-KEPFY,36,Month-to-month,95.0,Fiber optic,No,No,0.7107884220045646
+7055-VKGDA,54,One year,105.4,Fiber optic,Yes,Yes,0.7102075121947904
+9581-GVBXT,59,One year,34.8,DSL,Yes,No,0.7099532230489868
+9048-JVYVF,3,Month-to-month,69.35,DSL,No,Yes,0.7098682316889935
+5180-UCIIQ,22,Month-to-month,40.05,DSL,Yes,No,0.7098367237261214
+9339-FIIJL,72,Two year,85.95,DSL,No,Yes,0.7097884363671817
+5301-GAUUY,32,Month-to-month,80.35,Fiber optic,No,No,0.7097307830091647
+0362-ZBZWJ,36,Month-to-month,84.9,Fiber optic,No,No,0.709671570832886
+4763-PGDPO,4,Month-to-month,70.4,Fiber optic,No,No,0.7094077396246534
+1329-VHWNP,7,Month-to-month,25.05,DSL,No,No,0.709263642818805
+7338-ERIVA,39,One year,45.05,DSL,Yes,Yes,0.7091537385910993
+4441-NIHPT,13,Month-to-month,74.3,Fiber optic,No,No,0.7088980947795546
+0114-RSRRW,10,Month-to-month,19.95,No,No internet service,No internet service,0.7087882363614861
+3845-JHAMY,16,Month-to-month,35.5,DSL,No,No,0.7086831916374098
+0612-RTZZA,1,Month-to-month,25.25,DSL,No,No,0.7085241282201187
+0727-IWKVK,9,Month-to-month,79.9,Fiber optic,No,No,0.7084628461026711
+8749-CLJXC,1,Month-to-month,20.05,No,No internet service,No internet service,0.7084477075867658
+3275-RHRNE,28,One year,60.0,DSL,No,Yes,0.7082497695154072
+7748-UMTRK,30,Month-to-month,101.3,Fiber optic,No,Yes,0.7082249835321521
+2925-VDZHY,72,Two year,88.7,DSL,Yes,Yes,0.7079380280531764
+3746-EUBYR,1,Month-to-month,74.6,Fiber optic,No,No,0.7078960430442949
+0749-IRGQE,13,Month-to-month,45.3,DSL,No,No,0.7078958981279907
+0536-BGFMZ,28,Month-to-month,20.5,No,No internet service,No internet service,0.7075490988752037
+8000-REIQB,1,Month-to-month,69.95,Fiber optic,No,No,0.7073830677490642
+1930-WNXSB,58,Month-to-month,92.85,Fiber optic,No,No,0.7072823246039125
+5081-NWSUP,10,One year,64.9,DSL,No,Yes,0.707257522661167
+3005-TYFRD,55,Month-to-month,103.65,Fiber optic,No,No,0.7069223853434008
+2115-BFTIW,25,Month-to-month,70.95,Fiber optic,No,No,0.7063774044957107
+8042-JVNFH,1,Month-to-month,71.35,Fiber optic,No,No,0.7063291197410569
+6834-NXDCA,13,Month-to-month,23.9,DSL,No,No,0.7060477792326896
+8734-DKSTZ,10,Month-to-month,85.95,Fiber optic,No,No,0.706031887768537
+4945-RVMTE,28,Month-to-month,59.55,DSL,No,No,0.7058991517355522
+4837-PZTIC,47,Two year,41.9,DSL,Yes,Yes,0.7058991517355522
+9931-DCEZH,28,One year,54.4,DSL,No,Yes,0.7057666703654418
+0013-EXCHZ,3,Month-to-month,83.9,Fiber optic,No,Yes,0.7056646702305543
+8760-ZRHKE,71,One year,69.2,DSL,Yes,No,0.705449864285118
+0481-SUMCB,45,One year,102.15,Fiber optic,No,No,0.7054196082079248
+6776-TLWOI,3,Month-to-month,19.85,No,No internet service,No internet service,0.7053823218819124
+5482-NUPNA,4,Month-to-month,60.4,DSL,Yes,Yes,0.7052517356707376
+7779-ORAEL,45,Two year,75.15,DSL,Yes,Yes,0.7051666113571988
+6131-FOYAS,35,Month-to-month,59.6,DSL,Yes,No,0.7050283677457843
+8406-LNMHF,59,One year,82.95,Fiber optic,Yes,No,0.7048277585061422
+1271-UODNO,39,Two year,53.85,DSL,No,Yes,0.7047411253846437
+1689-MRZQR,34,Month-to-month,78.3,Fiber optic,No,No,0.7045925552343271
+6502-HCJTI,7,Month-to-month,94.7,Fiber optic,Yes,No,0.7045356389900254
+0866-QLSIR,34,One year,64.4,DSL,Yes,Yes,0.704126334261463
+8532-UEFWH,52,Two year,25.75,No,No internet service,No internet service,0.704126334261463
+9842-EFSYY,4,Month-to-month,57.2,DSL,Yes,No,0.704126334261463
+0495-RVCBF,1,Month-to-month,79.7,Fiber optic,No,No,0.704126334261463
+7504-UWHNB,25,Month-to-month,69.75,Fiber optic,No,No,0.704126334261463
+2254-DLXRI,1,Month-to-month,79.15,Fiber optic,No,No,0.704126334261463
+6114-TCFID,29,One year,39.5,DSL,Yes,Yes,0.7041127954087458
+4980-URKXC,36,One year,20.85,No,No internet service,No internet service,0.7037636536628482
+8807-OPMBM,55,Two year,25.65,No,No internet service,No internet service,0.7036540625654649
+4177-JPDFU,12,Month-to-month,34.0,DSL,No,Yes,0.7036297519707972
+7916-VCCPB,16,Month-to-month,73.25,Fiber optic,No,No,0.7033379658907579
+8012-SOUDQ,43,Month-to-month,90.25,Fiber optic,No,No,0.7031814623521768
+3950-VPYJB,57,One year,59.6,DSL,Yes,Yes,0.7031475281160969
+1209-VFFOC,68,Two year,56.4,DSL,Yes,Yes,0.7029656531327254
+5692-ICXLW,31,Month-to-month,90.7,Fiber optic,No,No,0.7027220354045238
+2373-NTKOD,8,Month-to-month,66.25,DSL,No,No,0.7023508149710186
+3629-WEAAM,8,Month-to-month,64.1,DSL,No,Yes,0.7021232412103032
+2959-MJHIC,4,Month-to-month,80.35,Fiber optic,No,No,0.7018505920678506
+0178-SZBHO,47,Month-to-month,87.2,Fiber optic,No,No,0.7018301055216958
+9451-WLYRI,53,One year,19.05,No,No internet service,No internet service,0.701742257689459
+6892-BOGQE,71,Two year,20.9,No,No internet service,No internet service,0.7016947270919058
+2603-HVKCG,31,Month-to-month,101.4,Fiber optic,No,No,0.7016577356650999
+8267-KFGYD,1,Month-to-month,21.05,No,No internet service,No internet service,0.7014328942988428
+5206-HPJKM,17,Month-to-month,55.5,DSL,Yes,No,0.7013612469509024
+5159-YFPKQ,2,Month-to-month,75.8,Fiber optic,No,No,0.7012187766027209
+1231-YNDEK,58,Two year,19.15,No,No internet service,No internet service,0.7012187766027209
+8988-ECPJR,34,Month-to-month,79.6,Fiber optic,No,No,0.7008423288327306
+5173-WXOQV,2,Month-to-month,64.2,DSL,No,Yes,0.700708625638235
+0839-JTCUD,66,Two year,89.9,DSL,Yes,Yes,0.7005497902978491
+2379-GYFLQ,46,One year,94.9,Fiber optic,No,No,0.7003604772357359
+0285-INHLN,27,Month-to-month,54.75,DSL,Yes,No,0.7003604772357359
+4086-YQSNZ,3,Month-to-month,80.4,Fiber optic,No,No,0.7003604772357359
+8976-OQHGT,4,Month-to-month,56.5,DSL,No,Yes,0.7003604772357359
+8966-OIQHG,22,One year,20.75,No,No internet service,No internet service,0.7003604772357359
+8966-KZXXA,36,Two year,25.1,No,No internet service,No internet service,0.7003604772357359
+1427-VERSM,56,Month-to-month,98.7,Fiber optic,No,Yes,0.7003604772357359
+0104-PPXDV,58,One year,50.3,DSL,No,No,0.7002456842335357
+8051-HJRLT,1,Month-to-month,70.55,Fiber optic,No,No,0.7002278923179256
+9492-TOKRI,18,Month-to-month,90.0,Fiber optic,No,No,0.7001866986634812
+9979-RGMZT,7,One year,94.05,Fiber optic,No,No,0.7001624792157978
